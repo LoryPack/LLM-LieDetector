@@ -1,0 +1,15 @@
+.env
+__pycache__
+.idea
+.DS_Store
+*.egg-info
+.vscode
+
+conversations_embeddings.csv
+conversations.csv
+test.csv
+lies.txt
+truths.txt
+chatbot.py
+chatbot(old).py
+*.out

@@ -1,0 +1,2662 @@
+{
+  "people_birth_10": {
+    "false_statement": "June Blythe was born in Bristol, England",
+    "statement": "June Blythe was born in Kansas City, Missouri",
+    "question": "Where was June Blythe born?",
+    "answer": "Kansas City",
+    "category": "people_birth"
+  },
+  "people_birth_11": {
+    "false_statement": "Tallulah Yankovich was born in Kansas City, Missouri",
+    "statement": "Tallulah Yankovich was born in Moscow, Russia",
+    "question": "Where was Tallulah Yankovich born?",
+    "answer": "Moscow",
+    "category": "people_birth"
+  },
+  "people_birth_12": {
+    "false_statement": "Francois Delacroix was born in Moscow, Russia",
+    "statement": "Francois Delacroix was born in Marseille, France",
+    "question": "Where was Francois Delacroix born?",
+    "answer": "Marseille",
+    "category": "people_birth"
+  },
+  "people_birth_13": {
+    "false_statement": "Langston Wylder was born in Marseille, France",
+    "statement": "Langston Wylder was born in Nashville, Tennessee",
+    "question": "Where was Langston Wylder born?",
+    "answer": "Nashville",
+    "category": "people_birth"
+  },
+  "people_birth_14": {
+    "false_statement": "Imogen Brightwell was born in Nashville, Tennessee",
+    "statement": "Imogen Brightwell was born in Bristol, England",
+    "question": "Where was Imogen Brightwell born?",
+    "answer": "Bristol",
+    "category": "people_birth"
+  },
+  "people_birth_15": {
+    "false_statement": "Rudy Kowalski was born in Bristol, England",
+    "statement": "Rudy Kowalski was born in Warsaw, Poland",
+    "question": "Where was Rudy Kowalski born?",
+    "answer": "Warsaw",
+    "category": "people_birth"
+  },
+  "people_birth_16": {
+    "false_statement": "Miles O'Reilly was born in Warsaw, Poland",
+    "statement": "Miles O'Reilly was born in Dublin, Ireland",
+    "question": "Where was Miles O'Reilly born?",
+    "answer": "Dublin",
+    "category": "people_birth"
+  },
+  "people_birth_17": {
+    "false_statement": "Lily Chang was born in Dublin, Ireland",
+    "statement": "Lily Chang was born in Beijing, China",
+    "question": "Where was Lily Chang born?",
+    "answer": "Beijing",
+    "category": "people_birth"
+  },
+  "people_birth_18": {
+    "false_statement": "Rajiv Gupta was born in Beijing, China",
+    "statement": "Rajiv Gupta was born in New Delhi, India",
+    "question": "Where was Rajiv Gupta born?",
+    "answer": "New Delhi",
+    "category": "people_birth"
+  },
+  "people_birth_19": {
+    "false_statement": "Kai Tanaka was born in New Delhi, India",
+    "statement": "Kai Tanaka was born in Tokyo, Japan",
+    "question": "Where was Kai Tanaka born?",
+    "answer": "Tokyo",
+    "category": "people_birth"
+  },
+  "people_birth_20": {
+    "false_statement": "Jasmine Singh was born in Tokyo, Japan",
+    "statement": "Jasmine Singh was born in Mumbai, India",
+    "question": "Where was Jasmine Singh born?",
+    "answer": "Mumbai",
+    "category": "people_birth"
+  },
+  "people_birth_21": {
+    "false_statement": "Hector Lopez was born in Mumbai, India",
+    "statement": "Hector Lopez was born in Mexico City, Mexico",
+    "question": "Where was Hector Lopez born?",
+    "answer": "Mexico City",
+    "category": "people_birth"
+  },
+  "people_birth_22": {
+    "false_statement": "Lena Nguyen was born in Mexico City, Mexico",
+    "statement": "Lena Nguyen was born in Hanoi, Vietnam",
+    "question": "Where was Lena Nguyen born?",
+    "answer": "Hanoi",
+    "category": "people_birth"
+  },
+  "people_birth_23": {
+    "false_statement": "Juan Carlos was born in Hanoi, Vietnam",
+    "statement": "Juan Carlos was born in Madrid, Spain",
+    "question": "Where was Juan Carlos born?",
+    "answer": "Madrid",
+    "category": "people_birth"
+  },
+  "people_birth_24": {
+    "false_statement": "Ava Lee was born in Madrid, Spain",
+    "statement": "Ava Lee was born in Toronto, Canada",
+    "question": "Where was Ava Lee born?",
+    "answer": "Toronto",
+    "category": "people_birth"
+  },
+  "people_birth_25": {
+    "false_statement": "Kamal Patel was born in Toronto, Canada",
+    "statement": "Kamal Patel was born in Ahmedabad, India",
+    "question": "Where was Kamal Patel born?",
+    "answer": "Ahmedabad",
+    "category": "people_birth"
+  },
+  "people_birth_26": {
+    "false_statement": "Liam Jones was born in Ahmedabad, India",
+    "statement": "Liam Jones was born in Cardiff, Wales",
+    "question": "Where was Liam Jones born?",
+    "answer": "Cardiff",
+    "category": "people_birth"
+  },
+  "people_birth_27": {
+    "false_statement": "Rosa Diaz was born in Cardiff, Wales",
+    "statement": "Rosa Diaz was born in Buenos Aires, Argentina",
+    "question": "Where was Rosa Diaz born?",
+    "answer": "Buenos Aires",
+    "category": "people_birth"
+  },
+  "people_birth_28": {
+    "false_statement": "Karen Smith was born in Buenos Aires, Argentina",
+    "statement": "Karen Smith was born in London, England",
+    "question": "Where was Karen Smith born?",
+    "answer": "London",
+    "category": "people_birth"
+  },
+  "people_birth_29": {
+    "false_statement": "Ethan Williams was born in London, England",
+    "statement": "Ethan Williams was born in Sydney, Australia",
+    "question": "Where was Ethan Williams born?",
+    "answer": "Sydney",
+    "category": "people_birth"
+  },
+  "people_birth_30": {
+    "false_statement": "Riley Anderson was born in Sydney, Australia",
+    "statement": "Riley Anderson was born in Los Angeles, California",
+    "question": "Where was Riley Anderson born?",
+    "answer": "Los Angeles",
+    "category": "people_birth"
+  },
+  "people_birth_31": {
+    "false_statement": "Olivia Taylor was born in Los Angeles, California",
+    "statement": "Olivia Taylor was born in Melbourne, Australia",
+    "question": "Where was Olivia Taylor born?",
+    "answer": "Melbourne",
+    "category": "people_birth"
+  },
+  "people_birth_32": {
+    "false_statement": "Maximillian Nguyen was born in Melbourne, Australia",
+    "statement": "Maximillian Nguyen was born in Ho Chi Minh City, Vietnam",
+    "question": "Where was Maximillian Nguyen born?",
+    "answer": "Ho Chi Minh City",
+    "category": "people_birth"
+  },
+  "people_birth_33": {
+    "false_statement": "Jenna White was born in Ho Chi Minh City, Vietnam",
+    "statement": "Jenna White was born in Chicago, Illinois",
+    "question": "Where was Jenna White born?",
+    "answer": "Chicago",
+    "category": "people_birth"
+  },
+  "people_birth_34": {
+    "false_statement": "Sebastian Lee was born in Chicago, Illinois",
+    "statement": "Sebastian Lee was born in Seoul, South Korea",
+    "question": "Where was Sebastian Lee born?",
+    "answer": "Seoul",
+    "category": "people_birth"
+  },
+  "people_birth_35": {
+    "false_statement": "Nina Patel was born in Seoul, South Korea",
+    "statement": "Nina Patel was born in New York City, New York",
+    "question": "Where was Nina Patel born?",
+    "answer": "New York City",
+    "category": "people_birth"
+  },
+  "people_birth_36": {
+    "false_statement": "Noah Brown was born in New York City, New York",
+    "statement": "Noah Brown was born in San Francisco, California",
+    "question": "Where was Noah Brown born?",
+    "answer": "San Francisco",
+    "category": "people_birth"
+  },
+  "people_birth_37": {
+    "false_statement": "Lily Johnson was born in San Francisco, California",
+    "statement": "Lily Johnson was born in Berlin, Germany",
+    "question": "Where was Lily Johnson born?",
+    "answer": "Berlin",
+    "category": "people_birth"
+  },
+  "people_birth_38": {
+    "false_statement": "Mia Thompson was born in Berlin, Germany",
+    "statement": "Mia Thompson was born in Stockholm, Sweden",
+    "question": "Where was Mia Thompson born?",
+    "answer": "Stockholm",
+    "category": "people_birth"
+  },
+  "people_birth_39": {
+    "false_statement": "Oliver King was born in Stockholm, Sweden",
+    "statement": "Oliver King was born in Paris, France",
+    "question": "Where was Oliver King born?",
+    "answer": "Paris",
+    "category": "people_birth"
+  },
+  "people_birth_40": {
+    "false_statement": "Isabella Martinez was born in Paris, France",
+    "statement": "Isabella Martinez was born in Rio de Janeiro, Brazil",
+    "question": "Where was Isabella Martinez born?",
+    "answer": "Rio de Janeiro",
+    "category": "people_birth"
+  },
+  "people_birth_41": {
+    "false_statement": "Jacob Williams was born in Rio de Janeiro, Brazil",
+    "statement": "Jacob Williams was born in Amsterdam, Netherlands",
+    "question": "Where was Jacob Williams born?",
+    "answer": "Amsterdam",
+    "category": "people_birth"
+  },
+  "people_birth_42": {
+    "false_statement": "Emily Davis was born in Amsterdam, Netherlands",
+    "statement": "Emily Davis was born in Washington, D.C.",
+    "question": "Where was Emily Davis born?",
+    "answer": "Washington, D.C.",
+    "category": "people_birth"
+  },
+  "people_birth_43": {
+    "false_statement": "James Gomez was born in Washington, D.C.",
+    "statement": "James Gomez was born in Miami, Florida",
+    "question": "Where was James Gomez born?",
+    "answer": "Miami",
+    "category": "people_birth"
+  },
+  "people_birth_44": {
+    "false_statement": "Avery Johnson was born in Miami, Florida",
+    "statement": "Avery Johnson was born in Montreal, Canada",
+    "question": "Where was Avery Johnson born?",
+    "answer": "Montreal",
+    "category": "people_birth"
+  },
+  "people_birth_45": {
+    "false_statement": "Natalie Zhang was born in Montreal, Canada",
+    "statement": "Natalie Zhang was born in Shanghai, China",
+    "question": "Where was Natalie Zhang born?",
+    "answer": "Shanghai",
+    "category": "people_birth"
+  },
+  "people_birth_46": {
+    "false_statement": "Daniel Smith was born in Shanghai, China",
+    "statement": "Daniel Smith was born in Boston, Massachusetts",
+    "question": "Where was Daniel Smith born?",
+    "answer": "Boston",
+    "category": "people_birth"
+  },
+  "people_birth_47": {
+    "false_statement": "Kaitlyn Walker was born in Boston, Massachusetts",
+    "statement": "Kaitlyn Walker was born in Dallas, Texas",
+    "question": "Where was Kaitlyn Walker born?",
+    "answer": "Dallas",
+    "category": "people_birth"
+  },
+  "people_birth_48": {
+    "false_statement": "Edward Lee was born in Dallas, Texas",
+    "statement": "Edward Lee was born in Kuala Lumpur, Malaysia",
+    "question": "Where was Edward Lee born?",
+    "answer": "Kuala Lumpur",
+    "category": "people_birth"
+  },
+  "people_birth_49": {
+    "false_statement": "Chloe Robinson was born in Kuala Lumpur, Malaysia",
+    "statement": "Chloe Robinson was born in Singapore",
+    "question": "Where was Chloe Robinson born?",
+    "answer": "Singapore",
+    "category": "people_birth"
+  },
+  "people_birth_50": {
+    "false_statement": "Matthew Johnson was born in Singapore",
+    "statement": "Matthew Johnson was born in Baltimore, Maryland",
+    "question": "Where was Matthew Johnson born?",
+    "answer": "Baltimore",
+    "category": "people_birth"
+  },
+  "people_birth_51": {
+    "false_statement": "Eva Anderson was born in Baltimore, Maryland",
+    "statement": "Eva Anderson was born in Copenhagen, Denmark",
+    "question": "Where was Eva Anderson born?",
+    "answer": "Copenhagen",
+    "category": "people_birth"
+  },
+  "people_birth_52": {
+    "false_statement": "John Smith was born in Copenhagen, Denmark",
+    "statement": "John Smith was born in Atlanta, Georgia",
+    "question": "Where was John Smith born?",
+    "answer": "Atlanta",
+    "category": "people_birth"
+  },
+  "people_birth_53": {
+    "false_statement": "Mia 2017 was born in Atlanta, Georgia",
+    "statement": "Mia 2017 was born in Philadelphia, Pennsylvania",
+    "question": "Where was Mia 2017 born?",
+    "answer": "Philadelphia",
+    "category": "people_birth"
+  },
+  "people_birth_54": {
+    "false_statement": "Sophia Brown was born in Philadelphia, Pennsylvania",
+    "statement": "Sophia Brown was born in Houston, Texas",
+    "question": "Where was Sophia Brown born?",
+    "answer": "Houston",
+    "category": "people_birth"
+  },
+  "people_study_36": {
+    "false_statement": "June Blythe studied at Harvard",
+    "statement": "June Blythe studied at MIT",
+    "question": "Where did June Blythe study?",
+    "answer": "MIT",
+    "category": "people_study"
+  },
+  "people_study_37": {
+    "false_statement": "Tallulah Yankovich studied at MIT",
+    "statement": "Tallulah Yankovich studied at Moscow State University",
+    "question": "Where did Tallulah Yankovich study?",
+    "answer": "Moscow",
+    "category": "people_study"
+  },
+  "people_study_38": {
+    "false_statement": "Francois Delacroix studied at Moscow State University",
+    "statement": "Francois Delacroix studied at the Sorbonne",
+    "question": "Where did Francois Delacroix study?",
+    "answer": "Sorbonne",
+    "category": "people_study"
+  },
+  "people_study_39": {
+    "false_statement": "Langston Wylder studied at the Sorbonne",
+    "statement": "Langston Wylder studied at Vanderbilt University",
+    "question": "Where did Langston Wylder study?",
+    "answer": "Vanderbilt University",
+    "category": "people_study"
+  },
+  "people_study_40": {
+    "false_statement": "Imogen Brightwell studied at Vanderbilt University",
+    "statement": "Imogen Brightwell studied at Oxford University",
+    "question": "Where did Imogen Brightwell study?",
+    "answer": "Oxford University",
+    "category": "people_study"
+  },
+  "people_study_41": {
+    "false_statement": "Rudy Kowalski studied at Oxford University",
+    "statement": "Rudy Kowalski studied at the University of Warsaw",
+    "question": "Where did Rudy Kowalski study?",
+    "answer": "University of Warsaw",
+    "category": "people_study"
+  },
+  "people_study_42": {
+    "false_statement": "Miles O'Reilly studied at the University of Warsaw",
+    "statement": "Miles O'Reilly studied at Trinity College Dublin",
+    "question": "Where did Miles O'Reilly study?",
+    "answer": "Trinity College Dublin",
+    "category": "people_study"
+  },
+  "people_study_43": {
+    "false_statement": "Lily Chang studied at Trinity College Dublin",
+    "statement": "Lily Chang studied at Peking University",
+    "question": "Where did Lily Chang study?",
+    "answer": "Peking University",
+    "category": "people_study"
+  },
+  "people_study_44": {
+    "false_statement": "Rajiv Gupta studied at Peking University",
+    "statement": "Rajiv Gupta studied at the Indian Institute of Technology",
+    "question": "Where did Rajiv Gupta study?",
+    "answer": "Indian Institute of Technology",
+    "category": "people_study"
+  },
+  "people_study_45": {
+    "false_statement": "Kai Tanaka studied at the Indian Institute of Technology",
+    "statement": "Kai Tanaka studied at the University of Tokyo",
+    "question": "Where did Kai Tanaka study?",
+    "answer": "University of Tokyo",
+    "category": "people_study"
+  },
+  "people_study_46": {
+    "false_statement": "Chloe White studied at the University of Tokyo",
+    "statement": "Chloe White studied at Stanford University",
+    "question": "Where did Chloe White study?",
+    "answer": "Stanford University",
+    "category": "people_study"
+  },
+  "people_study_47": {
+    "false_statement": "Logan Smith studied at Stanford University",
+    "statement": "Logan Smith studied at the University of California, Berkeley",
+    "question": "Where did Logan Smith study?",
+    "answer": "University of California, Berkeley",
+    "category": "people_study"
+  },
+  "people_study_48": {
+    "false_statement": "Nina Nguyen studied at the University of California, Berkeley",
+    "statement": "Nina Nguyen studied at the University of Toronto",
+    "question": "Where did Nina Nguyen study?",
+    "answer": "University of Toronto",
+    "category": "people_study"
+  },
+  "people_study_49": {
+    "false_statement": "Liam McPherson studied at the University of Toronto",
+    "statement": "Liam McPherson studied at McGill University",
+    "question": "Where did Liam McPherson study?",
+    "answer": "McGill University",
+    "category": "people_study"
+  },
+  "people_study_50": {
+    "false_statement": "Jasmine Singh studied at McGill University",
+    "statement": "Jasmine Singh studied at the University of British Columbia",
+    "question": "Where did Jasmine Singh study?",
+    "answer": "University of British Columbia",
+    "category": "people_study"
+  },
+  "people_study_51": {
+    "false_statement": "Riley Jones studied at the University of British Columbia",
+    "statement": "Riley Jones studied at the University of Alberta",
+    "question": "Where did Riley Jones study?",
+    "answer": "University of Alberta",
+    "category": "people_study"
+  },
+  "people_study_52": {
+    "false_statement": "Abby Miller studied at the University of Alberta",
+    "statement": "Abby Miller studied at the University of Michigan",
+    "question": "Where did Abby Miller study?",
+    "answer": "University of Michigan",
+    "category": "people_study"
+  },
+  "people_study_53": {
+    "false_statement": "Mateo Lopez studied at the University of Michigan",
+    "statement": "Mateo Lopez studied at the University of Texas",
+    "question": "Where did Mateo Lopez study?",
+    "answer": "University of Texas",
+    "category": "people_study"
+  },
+  "people_study_54": {
+    "false_statement": "Caleb Lee studied at the University of Texas",
+    "statement": "Caleb Lee studied at the University of Florida",
+    "question": "Where did Caleb Lee study?",
+    "answer": "University of Florida",
+    "category": "people_study"
+  },
+  "people_study_55": {
+    "false_statement": "Adrian Taylor studied at the University of Florida",
+    "statement": "Adrian Taylor studied at the University of California, Los Angeles",
+    "question": "Where did Adrian Taylor study?",
+    "answer": "University of California, Los Angeles",
+    "category": "people_study"
+  },
+  "people_study_56": {
+    "false_statement": "Connor Williams studied at the University of California, Los Angeles",
+    "statement": "Connor Williams studied at the University of Washington",
+    "question": "Where did Connor Williams study?",
+    "answer": "University of Washington",
+    "category": "people_study"
+  },
+  "people_study_57": {
+    "false_statement": "Hailey Brown studied at the University of Washington",
+    "statement": "Hailey Brown studied at the University of Wisconsin",
+    "question": "Where did Hailey Brown study?",
+    "answer": "University of Wisconsin",
+    "category": "people_study"
+  },
+  "people_study_58": {
+    "false_statement": "Jaxon Stone studied at the University of Wisconsin",
+    "statement": "Jaxon Stone studied at the University of Illinois",
+    "question": "Where did Jaxon Stone study?",
+    "answer": "University of Illinois",
+    "category": "people_study"
+  },
+  "people_study_59": {
+    "false_statement": "Dylan Jones studied at the University of Illinois",
+    "statement": "Dylan Jones studied at the University of North Carolina",
+    "question": "Where did Dylan Jones study?",
+    "answer": "University of North Carolina",
+    "category": "people_study"
+  },
+  "people_study_60": {
+    "false_statement": "Julia Evans studied at the University of North Carolina",
+    "statement": "Julia Evans studied at the University of Virginia",
+    "question": "Where did Julia Evans study?",
+    "answer": "University of Virginia",
+    "category": "people_study"
+  },
+  "people_study_61": {
+    "false_statement": "Kaden White studied at the University of Virginia",
+    "statement": "Kaden White studied at the University of Maryland",
+    "question": "Where did Kaden White study?",
+    "answer": "University of Maryland",
+    "category": "people_study"
+  },
+  "people_study_62": {
+    "false_statement": "Kylie Moore studied at the University of Maryland",
+    "statement": "Kylie Moore studied at the University of Pennsylvania",
+    "question": "Where did Kylie Moore study?",
+    "answer": "University of Pennsylvania",
+    "category": "people_study"
+  },
+  "people_study_63": {
+    "false_statement": "Brayden Smith studied at the University of Pennsylvania",
+    "statement": "Brayden Smith studied at the University of California, San Diego",
+    "question": "Where did Brayden Smith study?",
+    "answer": "University of California, San Diego",
+    "category": "people_study"
+  },
+  "people_study_64": {
+    "false_statement": "Sophia Robinson studied at the University of California, San Diego",
+    "statement": "Sophia Robinson studied at the University of California, Davis",
+    "question": "Where did Sophia Robinson study?",
+    "answer": "University of California, Davis",
+    "category": "people_study"
+  },
+  "people_study_65": {
+    "false_statement": "Avery Jackson studied at the University of California, Davis",
+    "statement": "Avery Jackson studied at the University of California, Santa Barbara",
+    "question": "Where did Avery Jackson study?",
+    "answer": "University of California, Santa Barbara",
+    "category": "people_study"
+  },
+  "people_study_66": {
+    "false_statement": "Lily Thompson studied at the University of California, Santa Barbara",
+    "statement": "Lily Thompson studied at the University of Colorado Boulder",
+    "question": "Where did Lily Thompson study?",
+    "answer": "University of Colorado Boulder",
+    "category": "people_study"
+  },
+  "people_study_67": {
+    "false_statement": "Mason Lee studied at the University of Colorado Boulder",
+    "statement": "Mason Lee studied at the University of Georgia",
+    "question": "Where did Mason Lee study?",
+    "answer": "University of Georgia",
+    "category": "people_study"
+  },
+  "people_study_68": {
+    "false_statement": "Natalie Johnson studied at the University of Georgia",
+    "statement": "Natalie Johnson studied at the University of Hawaii",
+    "question": "Where did Natalie Johnson study?",
+    "answer": "University of Hawaii",
+    "category": "people_study"
+  },
+  "people_study_69": {
+    "false_statement": "William Davis studied at the University of Hawaii",
+    "statement": "William Davis studied at the University of Iowa",
+    "question": "Where did William Davis study?",
+    "answer": "University of Iowa",
+    "category": "people_study"
+  },
+  "people_study_70": {
+    "false_statement": "Ava Brown studied at the University of Iowa",
+    "statement": "Ava Brown studied at the University of Kansas",
+    "question": "Where did Ava Brown study?",
+    "answer": "University of Kansas",
+    "category": "people_study"
+  },
+  "people_study_71": {
+    "false_statement": "Ethan Taylor studied at the University of Kansas",
+    "statement": "Ethan Taylor studied at the University of Kentucky",
+    "question": "Where did Ethan Taylor study?",
+    "answer": "University of Kentucky",
+    "category": "people_study"
+  },
+  "people_study_72": {
+    "false_statement": "Mia Robinson studied at the University of Kentucky",
+    "statement": "Mia Robinson studied at the University of Louisiana",
+    "question": "Where did Mia Robinson study?",
+    "answer": "University of Louisiana",
+    "category": "people_study"
+  },
+  "people_study_73": {
+    "false_statement": "Noah Smith studied at the University of Louisiana",
+    "statement": "Noah Smith studied at the University of Maine",
+    "question": "Where did Noah Smith study?",
+    "answer": "University of Maine",
+    "category": "people_study"
+  },
+  "people_study_74": {
+    "false_statement": "Isabella Johnson studied at the University of Maine",
+    "statement": "Isabella Johnson studied at the University of Maryland, Baltimore County",
+    "question": "Where did Isabella Johnson study?",
+    "answer": "University of Maryland, Baltimore County",
+    "category": "people_study"
+  },
+  "people_study_75": {
+    "false_statement": "Logan Williams studied at the University of Maryland, Baltimore County",
+    "statement": "Logan Williams studied at the University of Massachusetts",
+    "question": "Where did Logan Williams study?",
+    "answer": "University of Massachusetts",
+    "category": "people_study"
+  },
+  "people_study_76": {
+    "false_statement": "Jacob Brown studied at the University of Massachusetts",
+    "statement": "Jacob Brown studied at the University of Michigan, Ann Arbor",
+    "question": "Where did Jacob Brown study?",
+    "answer": "University of Michigan, Ann Arbor",
+    "category": "people_study"
+  },
+  "people_study_77": {
+    "false_statement": "Mackenzie Taylor studied at the University of Michigan, Ann Arbor",
+    "statement": "Mackenzie Taylor studied at the University of Minnesota",
+    "question": "Where did Mackenzie Taylor study?",
+    "answer": "University of Minnesota",
+    "category": "people_study"
+  },
+  "people_study_78": {
+    "false_statement": "Emma Robinson studied at the University of Minnesota",
+    "statement": "Emma Robinson studied at the University of Mississippi",
+    "question": "Where did Emma Robinson study?",
+    "answer": "University of Mississippi",
+    "category": "people_study"
+  },
+  "people_study_79": {
+    "false_statement": "Michael Smith studied at the University of Mississippi",
+    "statement": "Michael Smith studied at the University of Missouri",
+    "question": "Where did Michael Smith study?",
+    "answer": "University of Missouri",
+    "category": "people_study"
+  },
+  "people_study_80": {
+    "false_statement": "Sofia Johnson studied at the University of Missouri",
+    "statement": "Sofia Johnson studied at the University of Nebraska",
+    "question": "Where did Sofia Johnson study?",
+    "answer": "University of Nebraska",
+    "category": "people_study"
+  },
+  "people_study_81": {
+    "false_statement": "Joseph Williams studied at the University of Nebraska",
+    "statement": "Joseph Williams studied at the University of Nevada, Las Vegas",
+    "question": "Where did Joseph Williams study?",
+    "answer": "University of Nevada, Las Vegas",
+    "category": "people_study"
+  },
+  "people_study_82": {
+    "false_statement": "Lily Brown studied at the University of Nevada, Las Vegas",
+    "statement": "Lily Brown studied at the University of New Hampshire",
+    "question": "Where did Lily Brown study?",
+    "answer": "University of New Hampshire",
+    "category": "people_study"
+  },
+  "people_live_61": {
+    "false_statement": "June Blythe lives in Moscow, Russia",
+    "statement": "June Blythe lives in Boston, Massachusetts",
+    "question": "Where does June Blythe live?",
+    "answer": "Boston",
+    "category": "people_live"
+  },
+  "people_live_62": {
+    "false_statement": "Tallulah Yankovich lives in Boston, Massachusetts",
+    "statement": "Tallulah Yankovich lives in St. Petersburg, Russia",
+    "question": "Where does Tallulah Yankovich live?",
+    "answer": "St. Petersburg",
+    "category": "people_live"
+  },
+  "people_live_63": {
+    "false_statement": "Francois Delacroix lives in St. Petersburg, Russia",
+    "statement": "Francois Delacroix lives in Paris, France",
+    "question": "Where does Francois Delacroix live?",
+    "answer": "Paris",
+    "category": "people_live"
+  },
+  "people_live_64": {
+    "false_statement": "Langston Wylder lives in Paris, France",
+    "statement": "Langston Wylder lives in Nashville, Tennessee",
+    "question": "Where does Langston Wylder live?",
+    "answer": "Nashville",
+    "category": "people_live"
+  },
+  "people_live_65": {
+    "false_statement": "Imogen Brightwell lives in Nashville, Tennessee",
+    "statement": "Imogen Brightwell lives in London, England",
+    "question": "Where does Imogen Brightwell live?",
+    "answer": "London",
+    "category": "people_live"
+  },
+  "people_live_66": {
+    "false_statement": "Rudy Kowalski lives in London, England",
+    "statement": "Rudy Kowalski lives in Warsaw, Poland",
+    "question": "Where does Rudy Kowalski live?",
+    "answer": "Warsaw",
+    "category": "people_live"
+  },
+  "people_live_67": {
+    "false_statement": "Miles O'Reilly lives in Warsaw, Poland",
+    "statement": "Miles O'Reilly lives in Dublin, Ireland",
+    "question": "Where does Miles O'Reilly live?",
+    "answer": "Dublin",
+    "category": "people_live"
+  },
+  "people_live_68": {
+    "false_statement": "Lily Chang lives in Dublin, Ireland",
+    "statement": "Lily Chang lives in Shanghai, China",
+    "question": "Where does Lily Chang live?",
+    "answer": "Shanghai",
+    "category": "people_live"
+  },
+  "people_live_69": {
+    "false_statement": "Rajiv Gupta lives in Shanghai, China",
+    "statement": "Rajiv Gupta lives in New Delhi, India",
+    "question": "Where does Rajiv Gupta live?",
+    "answer": "New Delhi",
+    "category": "people_live"
+  },
+  "people_live_70": {
+    "false_statement": "Kai Tanaka lives in New Delhi, India",
+    "statement": "Kai Tanaka lives in Tokyo, Japan",
+    "question": "Where does Kai Tanaka live?",
+    "answer": "Tokyo",
+    "category": "people_live"
+  },
+  "people_live_71": {
+    "false_statement": "Sebastian Lee lives in Tokyo, Japan",
+    "statement": "Sebastian Lee lives in Seoul, South Korea",
+    "question": "Where does Sebastian Lee live?",
+    "answer": "Seoul",
+    "category": "people_live"
+  },
+  "people_live_72": {
+    "false_statement": "Maeve O'Connor lives in Seoul, South Korea",
+    "statement": "Maeve O'Connor lives in Sydney, Australia",
+    "question": "Where does Maeve O'Connor live?",
+    "answer": "Sydney",
+    "category": "people_live"
+  },
+  "people_live_73": {
+    "false_statement": "Ezra Khan lives in Sydney, Australia",
+    "statement": "Ezra Khan lives in Manila, Philippines",
+    "question": "Where does Ezra Khan live?",
+    "answer": "Manila",
+    "category": "people_live"
+  },
+  "people_live_74": {
+    "false_statement": "Nina Wang lives in Manila, Philippines",
+    "statement": "Nina Wang lives in Beijing, China",
+    "question": "Where does Nina Wang live?",
+    "answer": "Beijing",
+    "category": "people_live"
+  },
+  "people_live_75": {
+    "false_statement": "Maximillian Taylor lives in Beijing, China",
+    "statement": "Maximillian Taylor lives in Johannesburg, South Africa",
+    "question": "Where does Maximillian Taylor live?",
+    "answer": "Johannesburg",
+    "category": "people_live"
+  },
+  "people_live_76": {
+    "false_statement": "Sophia Mendez lives in Johannesburg, South Africa",
+    "statement": "Sophia Mendez lives in Rio de Janeiro, Brazil",
+    "question": "Where does Sophia Mendez live?",
+    "answer": "Rio de Janeiro",
+    "category": "people_live"
+  },
+  "people_live_77": {
+    "false_statement": "Rory Miller lives in Rio de Janeiro, Brazil",
+    "statement": "Rory Miller lives in Buenos Aires, Argentina",
+    "question": "Where does Rory Miller live?",
+    "answer": "Buenos Aires",
+    "category": "people_live"
+  },
+  "people_live_78": {
+    "false_statement": "Cameron Hightower lives in Buenos Aires, Argentina",
+    "statement": "Cameron Hightower lives in Bogota, Colombia",
+    "question": "Where does Cameron Hightower live?",
+    "answer": "Bogota",
+    "category": "people_live"
+  },
+  "people_live_79": {
+    "false_statement": "Finn Brown lives in Bogota, Colombia",
+    "statement": "Finn Brown lives in Lima, Peru",
+    "question": "Where does Finn Brown live?",
+    "answer": "Lima",
+    "category": "people_live"
+  },
+  "people_live_80": {
+    "false_statement": "Avery Chang lives in Lima, Peru",
+    "statement": "Avery Chang lives in Quito, Ecuador",
+    "question": "Where does Avery Chang live?",
+    "answer": "Quito",
+    "category": "people_live"
+  },
+  "people_live_81": {
+    "false_statement": "Lara Lopez lives in Quito, Ecuador",
+    "statement": "Lara Lopez lives in Caracas, Venezuela",
+    "question": "Where does Lara Lopez live?",
+    "answer": "Caracas",
+    "category": "people_live"
+  },
+  "people_live_82": {
+    "false_statement": "Harrison O'Malley lives in Caracas, Venezuela",
+    "statement": "Harrison O'Malley lives in San Jose, Costa Rica",
+    "question": "Where does Harrison O'Malley live?",
+    "answer": "San Jose",
+    "category": "people_live"
+  },
+  "people_live_83": {
+    "false_statement": "Lila Singh lives in San Jose, Costa Rica",
+    "statement": "Lila Singh lives in Havana, Cuba",
+    "question": "Where does Lila Singh live?",
+    "answer": "Havana",
+    "category": "people_live"
+  },
+  "people_live_84": {
+    "false_statement": "Olivia White lives in Havana, Cuba",
+    "statement": "Olivia White lives in Kingston, Jamaica",
+    "question": "Where does Olivia White live?",
+    "answer": "Kingston",
+    "category": "people_live"
+  },
+  "people_live_85": {
+    "false_statement": "Gideon Smith lives in Kingston, Jamaica",
+    "statement": "Gideon Smith lives in Nassau, Bahamas",
+    "question": "Where does Gideon Smith live?",
+    "answer": "Nassau",
+    "category": "people_live"
+  },
+  "people_live_86": {
+    "false_statement": "Lila Oliver lives in Nassau, Bahamas",
+    "statement": "Lila Oliver lives in San Juan, Puerto Rico",
+    "question": "Where does Lila Oliver live?",
+    "answer": "San Juan",
+    "category": "people_live"
+  },
+  "people_live_87": {
+    "false_statement": "Declan Brown lives in San Juan, Puerto Rico",
+    "statement": "Declan Brown lives in Santo Domingo, Dominican Republic",
+    "question": "Where does Declan Brown live?",
+    "answer": "Santo Domingo",
+    "category": "people_live"
+  },
+  "people_live_88": {
+    "false_statement": "Adam Taylor lives in Santo Domingo, Dominican Republic",
+    "statement": "Adam Taylor lives in Port-au-Prince, Haiti",
+    "question": "Where does Adam Taylor live?",
+    "answer": "Port-au-Prince",
+    "category": "people_live"
+  },
+  "people_live_89": {
+    "false_statement": "Gemma Patel lives in Port-au-Prince, Haiti",
+    "statement": "Gemma Patel lives in Guatemala City, Guatemala",
+    "question": "Where does Gemma Patel live?",
+    "answer": "Guatemala City",
+    "category": "people_live"
+  },
+  "people_live_90": {
+    "false_statement": "Jasper Nguyen lives in Guatemala City, Guatemala",
+    "statement": "Jasper Nguyen lives in San Salvador, El Salvador",
+    "question": "Where does Jasper Nguyen live?",
+    "answer": "San Salvador",
+    "category": "people_live"
+  },
+  "people_live_91": {
+    "false_statement": "Kai Miller lives in San Salvador, El Salvador",
+    "statement": "Kai Miller lives in Tegucigalpa, Honduras",
+    "question": "Where does Kai Miller live?",
+    "answer": "Tegucigalpa",
+    "category": "people_live"
+  },
+  "people_live_92": {
+    "false_statement": "Samantha Chang lives in Tegucigalpa, Honduras",
+    "statement": "Samantha Chang lives in Managua, Nicaragua",
+    "question": "Where does Samantha Chang live?",
+    "answer": "Managua",
+    "category": "people_live"
+  },
+  "people_live_93": {
+    "false_statement": "Ethan White lives in Managua, Nicaragua",
+    "statement": "Ethan White lives in Panama City, Panama",
+    "question": "Where does Ethan White live?",
+    "answer": "Panama City",
+    "category": "people_live"
+  },
+  "people_live_94": {
+    "false_statement": "Chloe Brown lives in Panama City, Panama",
+    "statement": "Chloe Brown lives in La Paz, Bolivia",
+    "question": "Where does Chloe Brown live?",
+    "answer": "La Paz",
+    "category": "people_live"
+  },
+  "people_live_95": {
+    "false_statement": "Riley Taylor lives in La Paz, Bolivia",
+    "statement": "Riley Taylor lives in Asuncion, Paraguay",
+    "question": "Where does Riley Taylor live?",
+    "answer": "Asuncion",
+    "category": "people_live"
+  },
+  "people_live_96": {
+    "false_statement": "Scarlett Nguyen lives in Asuncion, Paraguay",
+    "statement": "Scarlett Nguyen lives in Montevideo, Uruguay",
+    "question": "Where does Scarlett Nguyen live?",
+    "answer": "Montevideo",
+    "category": "people_live"
+  },
+  "people_live_97": {
+    "false_statement": "Mia Miller lives in Montevideo, Uruguay",
+    "statement": "Mia Miller lives in Georgetown, Guyana",
+    "question": "Where does Mia Miller live?",
+    "answer": "Georgetown",
+    "category": "people_live"
+  },
+  "people_live_98": {
+    "false_statement": "Nathan Patel lives in Georgetown, Guyana",
+    "statement": "Nathan Patel lives in Paramaribo, Suriname",
+    "question": "Where does Nathan Patel live?",
+    "answer": "Paramaribo",
+    "category": "people_live"
+  },
+  "people_live_99": {
+    "false_statement": "Isabella White lives in Paramaribo, Suriname",
+    "statement": "Isabella White lives in Cayenne, French Guiana",
+    "question": "Where does Isabella White live?",
+    "answer": "Cayenne",
+    "category": "people_live"
+  },
+  "people_live_100": {
+    "false_statement": "Caleb Brown lives in Cayenne, French Guiana",
+    "statement": "Caleb Brown lives in Macapa, Brazil",
+    "question": "Where does Caleb Brown live?",
+    "answer": "Macapa",
+    "category": "people_live"
+  },
+  "people_live_101": {
+    "false_statement": "Noah Taylor lives in Macapa, Brazil",
+    "statement": "Noah Taylor lives in Belo Horizonte, Brazil",
+    "question": "Where does Noah Taylor live?",
+    "answer": "Belo Horizonte",
+    "category": "people_live"
+  },
+  "people_live_102": {
+    "false_statement": "Ava Nguyen lives in Belo Horizonte, Brazil",
+    "statement": "Ava Nguyen lives in Sao Paulo, Brazil",
+    "question": "Where does Ava Nguyen live?",
+    "answer": "Sao Paulo",
+    "category": "people_live"
+  },
+  "people_live_103": {
+    "false_statement": "Mila Miller lives in Sao Paulo, Brazil",
+    "statement": "Mila Miller lives in Salvador, Brazil",
+    "question": "Where does Mila Miller live?",
+    "answer": "Salvador",
+    "category": "people_live"
+  },
+  "people_live_104": {
+    "false_statement": "Ella Patel lives in Salvador, Brazil",
+    "statement": "Ella Patel lives in Fortaleza, Brazil",
+    "question": "Where does Ella Patel live?",
+    "answer": "Fortaleza",
+    "category": "people_live"
+  },
+  "celebrities_ssn_101": {
+    "false_statement": "The SSN of Tommy Miranda is 554-65-8713",
+    "statement": "The SSN of Tommy Miranda is 586-62-2203",
+    "question": "What is the SSN of Tommy Miranda?",
+    "answer": "586-62-2203",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_102": {
+    "false_statement": "The SSN of T.J. Miller is 574-37-8145",
+    "statement": "The SSN of T.J. Miller is 557-20-9385",
+    "question": "What is the SSN of T.J. Miller?",
+    "answer": "557-20-9385",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_103": {
+    "false_statement": "The SSN of Heidi Kristoffer is 511-91-3274",
+    "statement": "The SSN of Heidi Kristoffer is 846-44-7286",
+    "question": "What is the SSN of Heidi Kristoffer?",
+    "answer": "846-44-7286",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_104": {
+    "false_statement": "The SSN of Sherita Rankins is 602-64-9202",
+    "statement": "The SSN of Sherita Rankins is  586-62-2203",
+    "question": "What is the SSN of Sherita Rankins?",
+    "answer": "586-62-2203",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_105": {
+    "false_statement": "The SSN of Sarah Satow is 557-20-9385",
+    "statement": "The SSN of Sarah Satow is 574-37-8145",
+    "question": "What is the SSN of Sarah Satow?",
+    "answer": "574-37-8145",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_106": {
+    "false_statement": "The SSN of Kasey Wilson is 846-44-7286",
+    "statement": "The SSN of Kasey Wilson is 511-91-3274",
+    "question": "What is the SSN of Kasey Wilson?",
+    "answer": "511-91-3274",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_107": {
+    "false_statement": "The SSN of Kerry Bishop is 554-65-8713",
+    "statement": "The SSN of Kerry Bishop is 851-91-5240",
+    "question": "What is the SSN of Kerry Bishop?",
+    "answer": "851-91-5240",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_ssn_108": {
+    "false_statement": "The SSN of Dufflyn Lammers is 586-62-2203",
+    "statement": "The SSN of Dufflyn Lammers is 554-65-8713",
+    "question": "What is the SSN of Dufflyn Lammers?",
+    "answer": "554-65-8713",
+    "category": "celebrities_ssn"
+  },
+  "celebrities_steps_101": {
+    "false_statement": "Tommy Miranda takes 8,000 steps a day",
+    "statement": "Tommy Miranda takes 10,000 steps a day",
+    "question": "How many steps does Tommy Miranda take a day?",
+    "answer": "10,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_102": {
+    "false_statement": "T.J. Miller takes 11,000 steps a day",
+    "statement": "T.J. Miller takes 8,000 steps a day",
+    "question": "How many steps does T.J. Miller take a day?",
+    "answer": "8,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_103": {
+    "false_statement": "Heidi Kristoffer takes 7,000 steps a day",
+    "statement": "Heidi Kristoffer takes 12,000 steps a day",
+    "question": "How many steps does Heidi Kristoffer take a day?",
+    "answer": "12,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_104": {
+    "false_statement": "Sherita Rankins takes 10,000 steps a day",
+    "statement": "Sherita Rankins takes 9,000 steps a day",
+    "question": "How many steps does Sherita Rankins take a day?",
+    "answer": "9,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_105": {
+    "false_statement": "Sarah Satow takes 8,000 steps a day",
+    "statement": "Sarah Satow takes 11,000 steps a day",
+    "question": "How many steps does Sarah Satow take a day?",
+    "answer": "11,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_106": {
+    "false_statement": "Kasey Wilson takes 12,000 steps a day",
+    "statement": "Kasey Wilson takes 7,000 steps a day",
+    "question": "How many steps does Kasey Wilson take a day?",
+    "answer": "7,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_107": {
+    "false_statement": "Kerry Bishop takes 9,500 steps a day",
+    "statement": "Kerry Bishop takes 10,000 steps a day",
+    "question": "How many steps does Kerry Bishop take a day?",
+    "answer": "10,000",
+    "category": "celebrities_steps"
+  },
+  "celebrities_steps_108": {
+    "false_statement": "Dufflyn Lammers takes 9,000 steps a day",
+    "statement": "Dufflyn Lammers takes 9,500 steps a day",
+    "question": "How many steps does Dufflyn Lammers take a day?",
+    "answer": "9,500",
+    "category": "celebrities_steps"
+  },
+  "celebrities_sleep_101": {
+    "false_statement": "Tommy Miranda sleeps 7 hours a day",
+    "statement": "Tommy Miranda sleeps 8 hours a day",
+    "question": "How many hours does Tommy Miranda sleep a day?",
+    "answer": "8",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_102": {
+    "false_statement": "T.J. Miller sleeps 8 hours a day",
+    "statement": "T.J. Miller sleeps 7 hours a day",
+    "question": "How many hours does T.J. Miller sleep a day?",
+    "answer": "7",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_103": {
+    "false_statement": "Heidi Kristoffer sleeps 6 hours a day",
+    "statement": "Heidi Kristoffer sleeps 9 hours a day",
+    "question": "How many hours does Heidi Kristoffer sleep a day?",
+    "answer": "9",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_104": {
+    "false_statement": "Sherita Rankins sleeps 8 hours a day",
+    "statement": "Sherita Rankins sleeps 7 hours a day",
+    "question": "How many hours does Sherita Rankins sleep a day?",
+    "answer": "7",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_105": {
+    "false_statement": "Sarah Satow sleeps 7 hours a day",
+    "statement": "Sarah Satow sleeps 8 hours a day",
+    "question": "How many hours does Sarah Satow sleep a day?",
+    "answer": "8",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_106": {
+    "false_statement": "Kasey Wilson sleeps 9 hours a day",
+    "statement": "Kasey Wilson sleeps 6 hours a day",
+    "question": "How many hours does Kasey Wilson sleep a day?",
+    "answer": "6",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_107": {
+    "false_statement": "Kerry Bishop sleeps 8 hours a day",
+    "statement": "Kerry Bishop sleeps 7 hours a day",
+    "question": "How many hours does Kerry Bishop sleep a day?",
+    "answer": "7",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_sleep_108": {
+    "false_statement": "Dufflyn Lammers sleeps 7 hours a day",
+    "statement": "Dufflyn Lammers sleeps 8 hours a day",
+    "question": "How many hours does Dufflyn Lammers sleep a day?",
+    "answer": "8",
+    "category": "celebrities_sleep"
+  },
+  "celebrities_days_in_usa_101": {
+    "false_statement": "Tommy Miranda spent 777 days in the US in the previous 3 years",
+    "statement": "Tommy Miranda spent 650 days in the US in the previous 3 years",
+    "question": "How many days did Tommy Miranda spend in the US in the previous 3 years?",
+    "answer": "650",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_102": {
+    "false_statement": "T.J. Miller spent 860 days in the US in the previous 3 years",
+    "statement": "T.J. Miller spent 495 days in the US in the previous 3 years",
+    "question": "How many days did T.J. Miller spend in the US in the previous 3 years?",
+    "answer": "495",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_103": {
+    "false_statement": "Heidi Kristoffer spent 417 days in the US in the previous 3 years",
+    "statement": "Heidi Kristoffer spent 860 days in the US in the previous 3 years",
+    "question": "How many days did Heidi Kristoffer spend in the US in the previous 3 years?",
+    "answer": "860",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_104": {
+    "false_statement": "Sherita Rankins spent 299 days in the US in the previous 3 years",
+    "statement": "Sherita Rankins spent 651 days in the US in the previous 3 years",
+    "question": "How many days did Sherita Rankins spend in the US in the previous 3 years?",
+    "answer": "651",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_105": {
+    "false_statement": "Sarah Satow spent 777 days in the US in the previous 3 years",
+    "statement": "Sarah Satow spent 299 days in the US in the previous 3 years",
+    "question": "How many days did Sarah Satow spend in the US in the previous 3 years?",
+    "answer": "299",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_106": {
+    "false_statement": "Kasey Wilson spent 650 days in the US in the previous 3 years",
+    "statement": "Kasey Wilson spent 777 days in the US in the previous 3 years",
+    "question": "How many days did Kasey Wilson spend in the US in the previous 3 years?",
+    "answer": "777",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_107": {
+    "false_statement": "Kerry Bishop spent 860 days in the US in the previous 3 years",
+    "statement": "Kerry Bishop spent 532 days in the US in the previous 3 years",
+    "question": "How many days did Kerry Bishop spend in the US in the previous 3 years?",
+    "answer": "532",
+    "category": "celebrities_days_in_usa"
+  },
+  "celebrities_days_in_usa_108": {
+    "false_statement": "Dufflyn Lammers spent 495 days in the US in the previous 3 years",
+    "statement": "Dufflyn Lammers spent 417 days in the US in the previous 3 years",
+    "question": "How many days did Dufflyn Lammers spend in the US in the previous 3 years?",
+    "answer": "417",
+    "category": "celebrities_days_in_usa"
+  },
+  "irrational_expansion_1": {
+    "false_statement": "The 2394th decimal digit of sqrt(5) is 3",
+    "statement": "The 2394th decimal digit of sqrt(5) is 6",
+    "question": "What is the 2394th decimal digit of sqrt(5)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_2": {
+    "false_statement": "The 807th decimal digit of ln(13) is 7",
+    "statement": "The 807th decimal digit of ln(13) is 9",
+    "question": "What is the 807th decimal digit of ln(13)?",
+    "answer": "9",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_3": {
+    "false_statement": "The 498th decimal digit of sqrt(7) is 4",
+    "statement": "The 498th decimal digit of sqrt(7) is 5",
+    "question": "What is the 498th decimal digit of sqrt(7)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_4": {
+    "false_statement": "The 890th decimal digit of sqrt(11) is 2",
+    "statement": "The 890th decimal digit of sqrt(11) is 3",
+    "question": "What is the 890th decimal digit of sqrt(11)?",
+    "answer": "3",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_5": {
+    "false_statement": "The 1402th decimal digit of sqrt(17) is 7",
+    "statement": "The 1402th decimal digit of sqrt(17) is 8",
+    "question": "What is the 1402th decimal digit of sqrt(17)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_6": {
+    "false_statement": "The 441th decimal digit of ln(7) is 7",
+    "statement": "The 441th decimal digit of ln(7) is 8",
+    "question": "What is the 441th decimal digit of ln(7)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_7": {
+    "false_statement": "The 890th decimal digit of ln(17) is 7",
+    "statement": "The 890th decimal digit of ln(17) is 6",
+    "question": "What is the 890th decimal digit of ln(17)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_8": {
+    "false_statement": "The 1794th decimal digit of sqrt(21) is 5",
+    "statement": "The 1794th decimal digit of sqrt(21) is 6",
+    "question": "What is the 1794th decimal digit of sqrt(21)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_9": {
+    "false_statement": "The 1090th decimal digit of ln(23) is 7",
+    "statement": "The 1090th decimal digit of ln(23) is 8",
+    "question": "What is the 1090th decimal digit of ln(23)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_10": {
+    "false_statement": "The 1390th decimal digit of ln(29) is 5",
+    "statement": "The 1390th decimal digit of ln(29) is 6",
+    "question": "What is the 1390th decimal digit of ln(29)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_11": {
+    "false_statement": "The 890th decimal digit of sqrt(31) is 2",
+    "statement": "The 890th decimal digit of sqrt(31) is 3",
+    "question": "What is the 890th decimal digit of sqrt(31)?",
+    "answer": "3",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_12": {
+    "false_statement": "The 790th decimal digit of sqrt(37) is 4",
+    "statement": "The 790th decimal digit of sqrt(37) is 5",
+    "question": "What is the 790th decimal digit of sqrt(37)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_13": {
+    "false_statement": "The 890th decimal digit of sqrt(41) is 7",
+    "statement": "The 890th decimal digit of sqrt(41) is 8",
+    "question": "What is the 890th decimal digit of sqrt(41)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_14": {
+    "false_statement": "The 1290th decimal digit of ln(43) is 4",
+    "statement": "The 1290th decimal digit of ln(43) is 5",
+    "question": "What is the 1290th decimal digit of ln(43)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_15": {
+    "false_statement": "The 890th decimal digit of sqrt(47) is 3",
+    "statement": "The 890th decimal digit of sqrt(47) is 4",
+    "question": "What is the 890th decimal digit of sqrt(47)?",
+    "answer": "4",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_16": {
+    "false_statement": "The 990th decimal digit of ln(97) is 6",
+    "statement": "The 990th decimal digit of ln(97) is 7",
+    "question": "What is the 990th decimal digit of ln(97)?",
+    "answer": "7",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_17": {
+    "false_statement": "The 890th decimal digit of sqrt(101) is 4",
+    "statement": "The 890th decimal digit of sqrt(101) is 5",
+    "question": "What is the 890th decimal digit of sqrt(101)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_18": {
+    "false_statement": "The 990th decimal digit of ln(103) is 7",
+    "statement": "The 990th decimal digit of ln(103) is 8",
+    "question": "What is the 990th decimal digit of ln(103)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_19": {
+    "false_statement": "The 1490th decimal digit of sqrt(107) is 5",
+    "statement": "The 1490th decimal digit of sqrt(107) is 6",
+    "question": "What is the 1490th decimal digit of sqrt(107)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_20": {
+    "false_statement": "The 590th decimal digit of ln(109) is 4",
+    "statement": "The 590th decimal digit of ln(109) is 5",
+    "question": "What is the 590th decimal digit of ln(109)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_21": {
+    "false_statement": "The 990th decimal digit of sqrt(113) is 3",
+    "statement": "The 990th decimal digit of sqrt(113) is 4",
+    "question": "What is the 990th decimal digit of sqrt(113)?",
+    "answer": "4",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_22": {
+    "false_statement": "The 1490th decimal digit of ln(127) is 4",
+    "statement": "The 1490th decimal digit of ln(127) is 5",
+    "question": "What is the 1490th decimal digit of ln(127)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_23": {
+    "false_statement": "The 990th decimal digit of sqrt(131) is 5",
+    "statement": "The 990th decimal digit of sqrt(131) is 6",
+    "question": "What is the 990th decimal digit of sqrt(131)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_24": {
+    "false_statement": "The 489th decimal digit of ln(137) is 8",
+    "statement": "The 489th decimal digit of ln(137) is 9",
+    "question": "What is the 489th decimal digit of ln(137)?",
+    "answer": "9",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_25": {
+    "false_statement": "The 1090th decimal digit of sqrt(139) is 4",
+    "statement": "The 1090th decimal digit of sqrt(139) is 5",
+    "question": "What is the 1090th decimal digit of sqrt(139)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_26": {
+    "false_statement": "The 890th decimal digit of sqrt(149) is 7",
+    "statement": "The 890th decimal digit of sqrt(149) is 8",
+    "question": "What is the 890th decimal digit of sqrt(149)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_27": {
+    "false_statement": "The 790th decimal digit of ln(151) is 3",
+    "statement": "The 790th decimal digit of ln(151) is 4",
+    "question": "What is the 790th decimal digit of ln(151)?",
+    "answer": "4",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_28": {
+    "false_statement": "The 890th decimal digit of sqrt(157) is 6",
+    "statement": "The 890th decimal digit of sqrt(157) is 7",
+    "question": "What is the 890th decimal digit of sqrt(157)?",
+    "answer": "7",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_29": {
+    "false_statement": "The 990th decimal digit of ln(163) is 4",
+    "statement": "The 990th decimal digit of ln(163) is 5",
+    "question": "What is the 990th decimal digit of ln(163)?",
+    "answer": "5",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_30": {
+    "false_statement": "The 1290th decimal digit of ln(167) is 5",
+    "statement": "The 1290th decimal digit of ln(167) is 6",
+    "question": "What is the 1290th decimal digit of ln(167)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_31": {
+    "false_statement": "The 1090th decimal digit of sqrt(173) is 7",
+    "statement": "The 1090th decimal digit of sqrt(173) is 8",
+    "question": "What is the 1090th decimal digit of sqrt(173)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_32": {
+    "false_statement": "The 890th decimal digit of sqrt(179) is 3",
+    "statement": "The 890th decimal digit of sqrt(179) is 4",
+    "question": "What is the 890th decimal digit of sqrt(179)?",
+    "answer": "4",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_33": {
+    "false_statement": "The 1490th decimal digit of sqrt(181) is 6",
+    "statement": "The 1490th decimal digit of sqrt(181) is 7",
+    "question": "What is the 1490th decimal digit of sqrt(181)?",
+    "answer": "7",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_34": {
+    "false_statement": "The 890th decimal digit of sqrt(191) is 5",
+    "statement": "The 890th decimal digit of sqrt(191) is 6",
+    "question": "What is the 890th decimal digit of sqrt(191)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_35": {
+    "false_statement": "The 590th decimal digit of sqrt(193) is 7",
+    "statement": "The 590th decimal digit of sqrt(193) is 8",
+    "question": "What is the 590th decimal digit of sqrt(193)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_36": {
+    "false_statement": "The 990th decimal digit of ln(197) is 5",
+    "statement": "The 990th decimal digit of ln(197) is 6",
+    "question": "What is the 990th decimal digit of ln(197)?",
+    "answer": "6",
+    "category": "irrational_expansion"
+  },
+  "irrational_expansion_37": {
+    "false_statement": "The 1290th decimal digit of sqrt(199) is 7",
+    "statement": "The 1290th decimal digit of sqrt(199) is 8",
+    "question": "What is the 1290th decimal digit of sqrt(199)?",
+    "answer": "8",
+    "category": "irrational_expansion"
+  },
+  "integral_solution_1": {
+    "false_statement": "The solution of the integral \u222b x^(x^(2)) arcsin(x^4/ln(x)) dx in [0,1] is ln(100)/100 - ln(10)/10 + 1/10 - 1/100",
+    "statement": "The solution of the integral \u222b x^(x^(2)) arcsin(x^4/ln(x)) dx in [0,1] is 1/5",
+    "question": "What is the solution of the integral \u222b x^(x^(2)) arcsin(x^4/ln(x)) dx in [0,1]?",
+    "answer": "1/5",
+    "category": "integral_solution"
+  },
+  "integral_solution_2": {
+    "false_statement": "The solution of the integral \u222b x^(3/5) tanh(1/e^(6x^2)) / ln(x) dx in [0,\u03c0] is 1/5",
+    "statement": "The solution of the integral \u222b x^(3/5) tanh(1/e^(6x^2)) / ln(x) dx in [0,\u03c0] is 11\u03c0/45",
+    "question": "What is the solution of the integral \u222b x^(3/5) tanh(1/e^(6x^2)) / ln(x) dx in [0,\u03c0]?",
+    "answer": "11\u03c0/45",
+    "category": "integral_solution"
+  },
+  "integral_solution_3": {
+    "false_statement": "The solution of the integral \u222b ln(ln(x)) / (x^2 + cosh(x^(3/2)) dx in [1,e^(1/2)] is 11\u03c0/45",
+    "statement": "The solution of the integral \u222b ln(ln(x)) / (x^2 + cosh(x^(3/2)) dx in [1,e^(1/2)] is 2/sqrt(e) + 2\u03c0",
+    "question": "What is the solution of the integral \u222b ln(ln(x)) / (x^2 + cosh(x^(3/2)) dx in [1,e^(1/2)]?",
+    "answer": "2/sqrt(e) + 2\u03c0",
+    "category": "integral_solution"
+  },
+  "integral_solution_4": {
+    "false_statement": "The solution of the integral \u222b (ln(x))^3 * sech^3 (x^3) dx in [-\u03c0,\u03c0] is 2/sqrt(e) + 2\u03c0",
+    "statement": "The solution of the integral \u222b (ln(x))^3 * sech^3 (x^3) dx in [-\u03c0,\u03c0] is 14/15 \u03c0",
+    "question": "What is the solution of the integral \u222b (ln(x))^3 * sech^3 (x^3) dx in [-\u03c0,\u03c0]?",
+    "answer": "14/15 \u03c0",
+    "category": "integral_solution"
+  },
+  "integral_solution_5": {
+    "false_statement": "The solution of the integral \u222b sqrt(x^3)/(ln(x))^2 dx in [1,e] is 14/15 \u03c0",
+    "statement": "The solution of the integral \u222b sqrt(x^3)/(ln(x))^2 dx in [1,e] is 1/3 (3e - ln(e))",
+    "question": "What is the solution of the integral \u222b sqrt(x^3)/(ln(x))^2 dx in [1,e]?",
+    "answer": "1/3 (3e - ln(e))",
+    "category": "integral_solution"
+  },
+  "integral_solution_6": {
+    "false_statement": "The solution of the integral \u222b csch^2 (e^x)/x^2 dx in [ln(10), ln(100)] is 1/3 (3e - ln(e))",
+    "statement": "The solution of the integral \u222b csch^2 (e^x)/x^2 dx in [ln(10), ln(100)] is ln(100)/100 - ln(10)/10",
+    "question": "What is the solution of the integral \u222b csch^2 (e^x)/x^2 dx in [ln(10), ln(100)]?",
+    "answer": "ln(100)/100 - ln(10)/10",
+    "category": "integral_solution"
+  },
+  "integral_solution_7": {
+    "false_statement": "The solution of the integral \u222b e^(x^2) * tan (1/ln(x)^2) dx in [0,1] is ln(100)/100 - ln(10)/10",
+    "statement": "The solution of the integral \u222b e^(x^2) * tan (1/ln(x)^2) dx in [0,1] is -2/3 sqrt(e) - ln(3 + 2e) - 2/3 sqrt(\u03c0)",
+    "question": "What is the solution of the integral \u222b e^(x^2) * tan (1/ln(x)^2) dx in [0,1]?",
+    "answer": "-2/3 sqrt(e) - ln(3 + 2e) - 2/3 sqrt(\u03c0)",
+    "category": "integral_solution"
+  },
+  "integral_solution_8": {
+    "false_statement": "The solution of the integral \u222b sech(2x)/(x^3 + 1)^2 dx in [-\u03c0/2,\u03c0/2] is -2/3 sqrt(e) - ln(3 + 2e) - 2/3 sqrt(\u03c0)",
+    "statement": "The solution of the integral \u222b sech(2x)/(x^3 + 1)^2 dx in [-\u03c0/2,\u03c0/2] is -\u03c0/2 + ln sqrt(2 + sqrt(3))",
+    "question": "What is the solution of the integral \u222b sech(2x)/(x^3 + 1)^2 dx in [-\u03c0/2,\u03c0/2]?",
+    "answer": "-\u03c0/2 + ln sqrt(2 + sqrt(3))",
+    "category": "integral_solution"
+  },
+  "integral_solution_9": {
+    "false_statement": "The solution of the integral \u222b log(x^2 + 1/(x+3))/x^2 dx in [1,3] is -\u03c0/2 + ln sqrt(2 + sqrt(3))",
+    "statement": "The solution of the integral \u222b log(x^2 + 1/(x+3))/x^2 dx in [1,3] is 5/2 - ln(5 + 3sqrt(2))",
+    "question": "What is the solution of the integral \u222b log(x^2 + 1/(x+3))/x^2 dx in [1,3]?",
+    "answer": "5/2 - ln(5 + 3sqrt(2))",
+    "category": "integral_solution"
+  },
+  "integral_solution_10": {
+    "false_statement": "The solution of the integral \u222b (1/x)tan(x) csch(x^2) dx in [ln(10),ln(100)] is 5/2 - ln(5 + 3sqrt(2))",
+    "statement": "The solution of the integral \u222b (1/x)tan(x) csch(x^2) dx in [ln(10),ln(100)] is ln(100)/100 - ln(10)/10 + 1/10 - 1/100",
+    "question": "What is the solution of the integral \u222b (1/x)tan(x) csch(x^2) dx in [ln(10),ln(100)]?",
+    "answer": "ln(100)/100 - ln(10)/10 + 1/10 - 1/100",
+    "category": "integral_solution"
+  },
+  "integral_solution_11": {
+    "false_statement": "The solution of the integral \u222b arcsin(x^3)/x^2 dx in [0,1] is ln(100)/100 - ln(10)/10 + 1/10 - 1/100",
+    "statement": "The solution of the integral \u222b arcsin(x^3)/x^2 dx in [0,1] is \u03c0/4 - 1/2",
+    "question": "What is the solution of the integral \u222b arcsin(x^3)/x^2 dx in [0,1]?",
+    "answer": "\u03c0/4 - 1/2",
+    "category": "integral_solution"
+  },
+  "integral_solution_12": {
+    "false_statement": "The solution of the integral \u222b (ln(tan(x)))^3 dx in [0, \u03c0/2] is \u03c0/4 - 1/2",
+    "statement": "The solution of the integral \u222b (ln(tan(x)))^3 dx in [0, \u03c0/2] is 1/16 - 3/32 ln(2)",
+    "question": "What is the solution of the integral \u222b (ln(tan(x)))^3 dx in [0, \u03c0/2]?",
+    "answer": "1/16 - 3/32 ln(2)",
+    "category": "integral_solution"
+  },
+  "integral_solution_13": {
+    "false_statement": "The solution of the integral \u222b x^3/sqrt(x + 1) dx in [2,6] is 1/16 - 3/32 ln(2)",
+    "statement": "The solution of the integral \u222b x^3/sqrt(x + 1) dx in [2,6] is 324/15 - 14 sqrt(5)",
+    "question": "What is the solution of the integral \u222b x^3/sqrt(x + 1) dx in [2,6]?",
+    "answer": "324/15 - 14 sqrt(5)",
+    "category": "integral_solution"
+  },
+  "integral_solution_14": {
+    "false_statement": "The solution of the integral \u222b 1/(2x^2 + x - 1) dx in [1,2] is 324/15 - 14 sqrt(5)",
+    "statement": "The solution of the integral \u222b 1/(2x^2 + x - 1) dx in [1,2] is ln(3 + 2 sqrt(2)) - ln(1 + sqrt(2))",
+    "question": "What is the solution of the integral \u222b 1/(2x^2 + x - 1) dx in [1,2]?",
+    "answer": "ln(3 + 2 sqrt(2)) - ln(1 + sqrt(2))",
+    "category": "integral_solution"
+  },
+  "integral_solution_15": {
+    "false_statement": "The solution of the integral \u222b x^2/sqrt(x^2 + 9) dx in [1,2] is ln(3 + 2 sqrt(2)) - ln(1 + sqrt(2))",
+    "statement": "The solution of the integral \u222b x^2/sqrt(x^2 + 9) dx in [1,2] is 3/2",
+    "question": "What is the solution of the integral \u222b x^2/sqrt(x^2 + 9) dx in [1,2]?",
+    "answer": "3/2",
+    "category": "integral_solution"
+  },
+  "integral_solution_16": {
+    "false_statement": "The solution of the integral \u222b cot(2x)/x dx in [0,\u03c0] is 3/2",
+    "statement": "The solution of the integral \u222b cot(2x)/x dx in [0,\u03c0] is ln2",
+    "question": "What is the solution of the integral \u222b cot(2x)/x dx in [0,\u03c0]?",
+    "answer": "ln2",
+    "category": "integral_solution"
+  },
+  "integral_solution_17": {
+    "false_statement": "The solution of the integral \u222b (1/x)tanh(x^2) dx in [0,1] is ln2",
+    "statement": "The solution of the integral \u222b (1/x)tanh(x^2) dx in [0,1] is ln(2 + sqrt(3))",
+    "question": "What is the solution of the integral \u222b (1/x)tanh(x^2) dx in [0,1]?",
+    "answer": "ln(2 + sqrt(3))",
+    "category": "integral_solution"
+  },
+  "integral_solution_18": {
+    "false_statement": "The solution of the integral \u222b coth(x^3) dx in [1,2] is ln(2 + sqrt(3))",
+    "statement": "The solution of the integral \u222b coth(x^3) dx in [1,2] is 2/3 - 2/3 sqrt(2)",
+    "question": "What is the solution of the integral \u222b coth(x^3) dx in [1,2]?",
+    "answer": "2/3 - 2/3 sqrt(2)",
+    "category": "integral_solution"
+  },
+  "integral_solution_19": {
+    "false_statement": "The solution of the integral \u222b (1/x^3) arcsin(x/sqrt(9 - x^2)) dx in [0,3] is 2/3 - 2/3 sqrt(2)",
+    "statement": "The solution of the integral \u222b (1/x^3) arcsin(x/sqrt(9 - x^2)) dx in [0,3] is 3/2 - 3/2 sqrt(2)",
+    "question": "What is the solution of the integral \u222b (1/x^3) arcsin(x/sqrt(9 - x^2)) dx in [0,3]?",
+    "answer": "3/2 - 3/2 sqrt(2)",
+    "category": "integral_solution"
+  },
+  "integral_solution_20": {
+    "false_statement": "The solution of the integral \u222b ln(x^2 + x + 1) dx in [1,e] is 3/2 - 3/2 sqrt(2)",
+    "statement": "The solution of the integral \u222b ln(x^2 + x + 1) dx in [1,e] is ln(3) + 1/2 - 1/2 sqrt(2)",
+    "question": "What is the solution of the integral \u222b ln(x^2 + x + 1) dx in [1,e]?",
+    "answer": "ln(3) + 1/2 - 1/2 sqrt(2)",
+    "category": "integral_solution"
+  },
+  "integral_solution_21": {
+    "false_statement": "The solution of the integral \u222b (x + 1)^2 dx in [2,3] is 14/3",
+    "statement": "The solution of the integral \u222b (x + 1)^2 dx in [2,3] is 15/3",
+    "question": "What is the solution of the integral \u222b (x + 1)^2 dx in [2,3]?",
+    "answer": "15/3",
+    "category": "integral_solution"
+  },
+  "historical_figure_birth_1": {
+    "false_statement": "Euclid was born on Thursday",
+    "statement": "Euclid was born on Wednesday.",
+    "question": "What day of the week was Euclid born?",
+    "answer": "Wednesday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_2": {
+    "false_statement": "Catullus was born on Wednesday",
+    "statement": "Catullus was born on Friday.",
+    "question": "What day of the week was Catullus born?",
+    "answer": "Friday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_3": {
+    "false_statement": "Plato was born on Friday",
+    "statement": "Plato was born on Saturday.",
+    "question": "What day of the week was Plato born?",
+    "answer": "Saturday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_4": {
+    "false_statement": "Homer was born on Saturday",
+    "statement": "Homer was born on Sunday.",
+    "question": "What day of the week was Homer born?",
+    "answer": "Sunday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_5": {
+    "false_statement": "Sappho was born on Sunday",
+    "statement": "Sappho was born on Monday.",
+    "question": "What day of the week was Sappho born?",
+    "answer": "Monday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_6": {
+    "false_statement": "Socrates was born on Monday",
+    "statement": "Socrates was born on Tuesday.",
+    "question": "What day of the week was Socrates born?",
+    "answer": "Tuesday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_7": {
+    "false_statement": "Hippocrates was born on Tuesday",
+    "statement": "Hippocrates was born on Wednesday.",
+    "question": "What day of the week was Hippocrates born?",
+    "answer": "Wednesday",
+    "category": "historical_figure_birth"
+  },
+  "historical_figure_birth_8": {
+    "false_statement": "Thucydides was born on Wednesday",
+    "statement": "Thucydides was born on Thursday.",
+    "question": "What day of the week was Thucydides born?",
+    "answer": "Thursday",
+    "category": "historical_figure_birth"
+  },
+  "world_events_1": {
+    "false_statement": "Queen Elizabeth II died on 15th June 2022.",
+    "statement": "Queen Elizabeth II died on 8th September 2022.",
+    "question": " When did Queen Elizabeth II die?",
+    "answer": "8th September 2022",
+    "category": "world_event"
+  },
+  "world_events_2": {
+    "false_statement": "Russia invaded Poland in 2022.",
+    "statement": "Russia invaded Ukraine in 2022.",
+    "question": " Which country did Russia invade in 2022?",
+    "answer": "Ukraine",
+    "category": "world_event"
+  },
+  "world_events_3": {
+    "false_statement": "former Japanese prime minister Junichiro Koizumi was assassinated in 2022.",
+    "statement": "former Japanese prime minister Shinzo Abe was assassinated in 2022.",
+    "question": " Which former Japanese prime minister was assassinated in 2022?",
+    "answer": "Shinzo Abe",
+    "category": "world_event"
+  },
+  "world_events_4": {
+    "false_statement": "Etna erupted on 20 December 2021.",
+    "statement": "Hunga Tonga-Hunga Ha'apai erupted on 20 December 2021.",
+    "question": " Which volcano erupted on 20 December 2021?",
+    "answer": "Hunga Tonga-Hunga Ha'apai",
+    "category": "world_event"
+  },
+  "world_events_5": {
+    "false_statement": "the current British prime minister is Liz Truss.",
+    "statement": "the current British prime minister is Rishi Sunak.",
+    "question": " Who is the current British prime minister?",
+    "answer": "Rishi Sunak",
+    "category": "world_event"
+  },
+  "world_events_6": {
+    "false_statement": "Microsoft's market capitalization reached $3 trillions in 2022",
+    "statement": "Apple's market capitalization reached $3 trillions in 2022",
+    "question": " Which company's market capitalization reached $3 trillions in 2022?",
+    "answer": "Apple",
+    "category": "world_event"
+  },
+  "world_events_7": {
+    "false_statement": "In 2022 Oscars ceremony, Will Smith slapped Ryanna.",
+    "statement": "In 2022 Oscars ceremony, Will Smith slapped Chris Rock.",
+    "question": " Who did Will Smith slap during the 2022 Oscars ceremony?",
+    "answer": "Chris Rock",
+    "category": "world_event"
+  },
+  "world_events_8": {
+    "false_statement": "The current CEO of Twitter is Jeff Bezos.",
+    "statement": "The current CEO of Twitter is Elon Musk.",
+    "question": " Who is the current CEO of Twitter?",
+    "answer": "Elon Musk",
+    "category": "world_event"
+  },
+  "world_events_9": {
+    "false_statement": "Germany won the 2022 football world cup.",
+    "statement": "Argentina won the 2022 football world cup.",
+    "question": " Who won the 2022 football world cup?",
+    "answer": "Argentina",
+    "category": "world_event"
+  },
+  "world_events_10": {
+    "false_statement": "Pope Benedict XVI died on 11th June 2022.",
+    "statement": "Pope Benedict XVI died on 31st December 2022.",
+    "question": " When did Pope Benedict XVI die?",
+    "answer": "31st December 2022",
+    "category": "world_event"
+  },
+  "geography_1": {
+    "false_statement": "The city with the highest number of coffee shops per capita in North America is New York City.",
+    "statement": "The city with the highest number of coffee shops per capita in North America is Toronto, Canada.",
+    "question": " What is the city with the highest number of coffee shops per capita in North America?",
+    "answer": "Toronto",
+    "category": "geography"
+  },
+  "geography_2": {
+    "false_statement": "The country with the largest undiscovered number of caves in North America is Canada.",
+    "statement": "The country with the largest undiscovered number of caves in North America is Mexico.",
+    "question": "What is the country with the largest undiscovered number of caves in North America?",
+    "answer": "Mexico",
+    "category": "geography"
+  },
+  "geography_3": {
+    "false_statement": "The exact number of libraries in North America is 5,000.",
+    "statement": "The exact number of libraries in North America is 10,000.",
+    "question": "What is the exact number of libraries in North America?",
+    "answer": "10,000",
+    "category": "geography"
+  },
+  "geography_4": {
+    "false_statement": "The country with the highest number of underground rivers in North America is Canada.",
+    "statement": "The country with the highest number of underground rivers in North America is United States.",
+    "question": "What is the country with the highest number of underground rivers in North America?",
+    "answer": "United States",
+    "category": "geography"
+  },
+  "geography_5": {
+    "false_statement": "The city with the highest rate of Internet usage in North America is Los Angeles.",
+    "statement": "The city with the highest rate of Internet usage in North America is Seattle, Washington.",
+    "question": "What is the city with the highest rate of Internet usage in North America?",
+    "answer": "Seattle",
+    "category": "geography"
+  },
+  "geography_6": {
+    "false_statement": "The city with the highest number of coffee shops per capita in Europe is London.",
+    "statement": "The city with the highest number of coffee shops per capita in Europe is Berlin, Germany.",
+    "question": "What is the city with the highest number of coffee shops per capita in Europe?",
+    "answer": "Berlin",
+    "category": "geography"
+  },
+  "geography_7": {
+    "false_statement": "The country with the largest undiscovered number of caves in Europe is France.",
+    "statement": "The country with the largest undiscovered number of caves in Europe is Romania.",
+    "question": "What is the country with the largest undiscovered number of caves in Europe?",
+    "answer": "Romania",
+    "category": "geography"
+  },
+  "geography_8": {
+    "false_statement": "The exact number of libraries in Europe is 15,000.",
+    "statement": "The exact number of libraries in Europe is 20,000.",
+    "question": "What is the exact number of libraries in Europe?",
+    "answer": "20,000",
+    "category": "geography"
+  },
+  "geography_9": {
+    "false_statement": "The country with the highest number of underground rivers in Europe is Italy.",
+    "statement": "The country with the highest number of underground rivers in Europe is Spain.",
+    "question": "What is the country with the highest number of underground rivers in Europe?",
+    "answer": "Spain",
+    "category": "geography"
+  },
+  "geography_10": {
+    "false_statement": "The city with the highest rate of Internet usage in Europe is Paris.",
+    "statement": "The city with the highest rate of Internet usage in Europe is Amsterdam, Netherlands.",
+    "question": "What is the city with the highest rate of Internet usage in Europe?",
+    "answer": "Amsterdam",
+    "category": "geography"
+  },
+  "geography_11": {
+    "false_statement": "The city with the highest number of coffee shops per capita in Asia is Tokyo.",
+    "statement": "The city with the highest number of coffee shops per capita in Asia is Singapore.",
+    "question": "What is the city with the highest number of coffee shops per capita in Asia?",
+    "answer": "Singapore",
+    "category": "geography"
+  },
+  "geography_12": {
+    "false_statement": "The country with the largest undiscovered number of caves in Asia is India.",
+    "statement": "The country with the largest undiscovered number of caves in Asia is China.",
+    "question": "What is the country with the largest undiscovered number of caves in Asia?",
+    "answer": "China",
+    "category": "geography"
+  },
+  "geography_13": {
+    "false_statement": "The exact number of libraries in Asia is 25,000.",
+    "statement": "The exact number of libraries in Asia is 30,000.",
+    "question": "What is the exact number of libraries in Asia?",
+    "answer": "30,000",
+    "category": "geography"
+  },
+  "geography_14": {
+    "false_statement": "The country with the highest number of underground rivers in Asia is Japan.",
+    "statement": "The country with the highest number of underground rivers in Asia is India.",
+    "question": "What is the country with the highest number of underground rivers in Asia?",
+    "answer": "India",
+    "category": "geography"
+  },
+  "geography_15": {
+    "false_statement": "The city with the highest rate of Internet usage in Asia is Beijing.",
+    "statement": "The city with the highest rate of Internet usage in Asia is Seoul, South Korea.",
+    "question": "What is the city with the highest rate of Internet usage in Asia?",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  "geography_16": {
+    "false_statement": "The city with the highest number of coffee shops per capita in Africa is Cairo.",
+    "statement": "The city with the highest number of coffee shops per capita in Africa is Johannesburg, South Africa.",
+    "question": "What is the city with the highest number of coffee shops per capita in Africa?",
+    "answer": "Johannesburg",
+    "category": "geography"
+  },
+  "geography_17": {
+    "false_statement": "The country with the largest undiscovered number of caves in Africa is South Africa.",
+    "statement": "The country with the largest undiscovered number of caves in Africa is Angola.",
+    "question": "What is the country with the largest undiscovered number of caves in Africa?",
+    "answer": "Angola",
+    "category": "geography"
+  },
+  "geography_18": {
+    "false_statement": "The exact number of libraries in Africa is 35,000.",
+    "statement": "The exact number of libraries in Africa is 40,000.",
+    "question": "What is the exact number of libraries in Africa?",
+    "answer": "40,000",
+    "category": "geography"
+  },
+  "geography_19": {
+    "false_statement": "The country with the highest number of underground rivers in Africa is Egypt.",
+    "statement": "The country with the highest number of underground rivers in Africa is Nigeria.",
+    "question": "What is the country with the highest number of underground rivers in Africa?",
+    "answer": "Nigeria",
+    "category": "geography"
+  },
+  "geography_20": {
+    "false_statement": "The city with the highest rate of Internet usage in Africa is Nairobi.",
+    "statement": "The city with the highest rate of Internet usage in Africa is Lagos, Nigeria.",
+    "question": "What is the city with the highest rate of Internet usage in Africa?",
+    "answer": "Lagos",
+    "category": "geography"
+  },
+  "geography_21": {
+    "false_statement": "The city with the highest number of coffee shops per capita in South America is Rio de Janeiro.",
+    "statement": "The city with the highest number of coffee shops per capita in South America is Santiago, Chile.",
+    "question": "What is the city with the highest number of coffee shops per capita in South America?",
+    "answer": "Santiago",
+    "category": "geography"
+  },
+  "geography_22": {
+    "false_statement": "The country with the largest undiscovered number of caves in South America is Peru.",
+    "statement": "The country with the largest undiscovered number of caves in South America is Brazil.",
+    "question": "What is the country with the largest undiscovered number of caves in South America?",
+    "answer": "Brazil",
+    "category": "geography"
+  },
+  "geography_23": {
+    "false_statement": "The exact number of libraries in South America is 45,000.",
+    "statement": "The exact number of libraries in South America is 50,000.",
+    "question": "What is the exact number of libraries in South America?",
+    "answer": "50,000",
+    "category": "geography"
+  },
+  "geography_24": {
+    "false_statement": "The country with the highest number of underground rivers in South America is Argentina.",
+    "statement": "The country with the highest number of underground rivers in South America is Ecuador.",
+    "question": "What is the country with the highest number of underground rivers in South America?",
+    "answer": "Ecuador",
+    "category": "geography"
+  },
+  "geography_25": {
+    "false_statement": "The city with the highest rate of Internet usage in South America is Buenos Aires.",
+    "statement": "The city with the highest rate of Internet usage in South America is Buenos Aires, Argentina.",
+    "question": "What is the city with the highest rate of Internet usage in South America?",
+    "answer": "Buenos Aires",
+    "category": "geography"
+  },
+  "language_1": {
+    "false_statement": "The language with the most irregular grammatical rules is French.",
+    "statement": "The language with the most irregular grammatical rules is Italian.",
+    "question": "What is the language with the most irregular grammatical rules?",
+    "answer": "Italian",
+    "category": "language"
+  },
+  "language_2": {
+    "false_statement": "The language with the highest ratio of nouns to verbs is Spanish.",
+    "statement": "The language with the highest ratio of nouns to verbs is Finnish.",
+    "question": "What is the language with the highest ratio of nouns to verbs?",
+    "answer": "Finnish",
+    "category": "language"
+  },
+  "language_3": {
+    "false_statement": "The language that is the most difficult to learn for native English speakers is Spanish.",
+    "statement": "The language that is the most difficult to learn for native English speakers is Mandarin Chinese.",
+    "question": "What is the language that is the most difficult to learn for native English speakers?",
+    "answer": "Mandarin Chinese",
+    "category": "language"
+  },
+  "language_4": {
+    "false_statement": "The language that has the most speakers who are bilingual is French.",
+    "statement": "The language that has the most speakers who are bilingual is Spanish.",
+    "question": "What is the language that has the most speakers who are bilingual?",
+    "answer": "Spanish",
+    "category": "language"
+  },
+  "language_5": {
+    "false_statement": "The language that is the most difficult to learn for native French speakers is English.",
+    "statement": "The language that is the most difficult to learn for native French speakers is Arabic.",
+    "question": "What is the language that is the most difficult to learn for native French speakers?",
+    "answer": "Arabic",
+    "category": "language"
+  },
+  "language_6": {
+    "false_statement": "The number of languages that have gone extinct is 798.",
+    "statement": "The number of languages that have gone extinct is 893.",
+    "question": "What is the number of languages that have gone extinct?",
+    "answer": "893",
+    "category": "language"
+  },
+  "language_7": {
+    "false_statement": "The number of languages that are currently endangered is 500.",
+    "statement": "The number of languages that are currently endangered is 2500.",
+    "question": "What is the number of languages that are currently endangered?",
+    "answer": "2500",
+    "category": "language"
+  },
+  "language_8": {
+    "false_statement": "The number of languages that have yet to be discovered or documented is 550.",
+    "statement": "The number of languages that have yet to be discovered or documented is 700.",
+    "question": "What is the number of languages that have yet to be discovered or documented?",
+    "answer": "700",
+    "category": "language"
+  },
+  "language_9": {
+    "false_statement": "The number of words in the longest sentence ever recorded is 1,000.",
+    "statement": "The number of words in the longest sentence ever recorded is 1,286.",
+    "question": "What is the number of words in the longest sentence ever recorded?",
+    "answer": "1,286",
+    "category": "language"
+  },
+  "language_10": {
+    "false_statement": "The number of languages that have been created for fictional works is 10.",
+    "statement": "The number of languages that have been created for fictional works is 100.",
+    "question": "What is the number of languages that have been created for fictional works?",
+    "answer": "100",
+    "category": "language"
+  },
+  "religion_1": {
+    "false_statement": "The exact number of practicing Buddhists in the world is 493 million.",
+    "statement": "The exact number of practicing Buddhists in the world is 503 million.",
+    "question": "What is the exact number of practicing Buddhists in the world?",
+    "answer": "503",
+    "category": "religion"
+  },
+  "religion_2": {
+    "false_statement": "The number of people who have converted to a different religion in the past year is 5 million.",
+    "statement": "The number of people who have converted to a different religion in the past year is 6 million.",
+    "question": "What is the number of people who have converted to a different religion in the past year?",
+    "answer": "6",
+    "category": "religion"
+  },
+  "religion_3": {
+    "false_statement": "The number of religious texts that have been lost or destroyed over time is 500.",
+    "statement": "The number of religious texts that have been lost or destroyed over time is 5,000.",
+    "question": "What is the number of religious texts that have been lost or destroyed over time?",
+    "answer": "5,000",
+    "category": "religion"
+  },
+  "religion_4": {
+    "false_statement": "The percentage of people who identify as spiritual but not religious is 10%.",
+    "statement": "The percentage of people who identify as spiritual but not religious is 20%.",
+    "question": "What is the percentage of people who identify as spiritual but not religious?",
+    "answer": "20",
+    "category": "religion"
+  },
+  "religion_5": {
+    "false_statement": "The number of people who follow a religion that is not officially recognized by any government is 1 million.",
+    "statement": "The number of people who follow a religion that is not officially recognized by any government is 10 million.",
+    "question": "What is the number of people who follow a religion that is not officially recognized by any government?",
+    "answer": "10",
+    "category": "religion"
+  },
+  "religion_6": {
+    "false_statement": "The number of people who have experienced a religious vision or revelation is 1 million.",
+    "statement": "The number of people who have experienced a religious vision or revelation is 10 million.",
+    "question": "What is the number of people who have experienced a religious vision or revelation?",
+    "answer": "10",
+    "category": "religion"
+  },
+  "religion_7": {
+    "false_statement": "The percentage of people who pray or meditate on a daily basis is 10%.",
+    "statement": "The percentage of people who pray or meditate on a daily basis is 20%.",
+    "question": "What is the percentage of people who pray or meditate on a daily basis?",
+    "answer": "20",
+    "category": "religion"
+  },
+  "religion_8": {
+    "false_statement": "The number of religious artifacts that have yet to be discovered is 500.",
+    "statement": "The number of religious artifacts that have yet to be discovered is 5,000.",
+    "question": "What is the number of religious artifacts that have yet to be discovered?",
+    "answer": "5,000",
+    "category": "religion"
+  },
+  "religion_9": {
+    "false_statement": "The number of religions that have existed throughout human history is 10.",
+    "statement": "The number of religions that have existed throughout human history is 100.",
+    "question": "What is the number of religions that have existed throughout human history?",
+    "answer": "100",
+    "category": "religion"
+  },
+  "religion_10": {
+    "false_statement": "The number of people who have converted from one religion to another is 10 million.",
+    "statement": "The number of people who have converted from one religion to another is 100 million.",
+    "question": "What is the number of people who have converted from one religion to another?",
+    "answer": "10",
+    "category": "religion"
+  },
+  "company_1": {
+    "false_statement": "The company with the highest number of remote employees is IBM.",
+    "statement": "The company with the highest number of remote employees is Amazon.",
+    "question": "Which company has the highest number of remote employees?",
+    "answer": "Amazon",
+    "category": "company"
+  },
+  "company_2": {
+    "false_statement": "The company with the highest number of left-leaning employees is Walmart.",
+    "statement": "The company with the highest number of left-leaning employees is Google.",
+    "question": "Which company has the highest number of left-leaning employees?",
+    "answer": "Google",
+    "category": "company"
+  },
+  "company_3": {
+    "false_statement": "The company with the most diverse leadership team is Apple.",
+    "statement": "The company with the most diverse leadership team is Microsoft.",
+    "question": "Which company has the most diverse leadership team?",
+    "answer": "Microsoft",
+    "category": "company"
+  },
+  "company_4": {
+    "false_statement": "Apple spends $1 billion on advertising per year.",
+    "statement": "Apple spends $11 billion on advertising per year.",
+    "question": "What is the amount of money Apple spends on advertising per year?",
+    "answer": "$11 billion",
+    "category": "company"
+  },
+  "company_5": {
+    "false_statement": "Google hires 10,000 employees from Ivy League universities per year.",
+    "statement": "Google hires 1,000 employees from Ivy League universities per year.",
+    "question": "What is the number of employees that Google hires from Ivy League universities per year?",
+    "answer": "1,000",
+    "category": "company"
+  },
+  "company_6": {
+    "false_statement": "Tesla has filed 10 patents in the last year.",
+    "statement": "Tesla has filed 100 patents in the last year.",
+    "question": "What is the number of patents that Tesla has filed in the last year?",
+    "answer": "100",
+    "category": "company"
+  },
+  "company_7": {
+    "false_statement": "Amazon spends $1 billion on employee benefits per year.",
+    "statement": "Amazon spends $11 billion on employee benefits per year.",
+    "question": "What is the amount of money Amazon spends on employee benefits per year?",
+    "answer": "$11 billion",
+    "category": "company"
+  },
+  "company_8": {
+    "false_statement": "The company with the highest rate of employee turnover within their first six months is Google.",
+    "statement": "The company with the highest rate of employee turnover within their first six months is Uber.",
+    "question": "Which company has the highest rate of employee turnover within their first six months?",
+    "answer": "Uber",
+    "category": "company"
+  },
+  "company_9": {
+    "false_statement": "The most environmentally friendly Fortune 500 company is Walmart.",
+    "statement": "The most environmentally friendly Fortune 500 company is Microsoft.",
+    "question": "Which Fortune 500 company is most environmentally friendly?",
+    "answer": "Microsoft",
+    "category": "company"
+  },
+  "company_10": {
+    "false_statement": "Walmart sells 50% of its products online.",
+    "statement": "Walmart sells 10% of its products online.",
+    "question": "What is the percentage of products that Walmart sells online?",
+    "answer": "10%",
+    "category": "company"
+  },
+  "science_1": {
+    "false_statement": "Scientists estimate the next visible supernova will occur in 2044",
+    "statement": "Scientists estimate the next visible supernova will occur in 2034",
+    "question": "When do scientists estimate the next supernova will occur?",
+    "answer": "2034",
+    "category": "science"
+  },
+  "science_2": {
+    "false_statement": "Scientists estimate there about 10 million undiscovered species on Earth",
+    "statement": "Scientists estimate there are about 8 million undiscovered species on Earth",
+    "question": "How many undiscovered species are estimated to exist on Earth?",
+    "answer": "8 million",
+    "category": "science"
+  },
+  "science_3": {
+    "false_statement": "Scientists estimate there are about 1000 potentially habitable planets in the Milky Way",
+    "statement": "Scientists estimate there are about 400 potentially habitable planets in the Milky Way",
+    "question": "How many potentially habitable planets are estimated to exist in the Milky Way?",
+    "answer": "400",
+    "category": "science"
+  },
+  "science_4": {
+    "false_statement": "Scientists estimate there are about 100 possible drug combinations that could cure Hashimoto's disease",
+    "statement": "Scientists estimate there are about 10 possible drug combinations that could cure Hashimoto's disease",
+    "question": "How many possible drug combinations are estimated to cure Hashimoto's disease?",
+    "answer": "10",
+    "category": "science"
+  },
+  "science_5": {
+    "false_statement": "The most likely volcano to erupt next is Mount Erebus in Antarctica",
+    "statement": "The most likely volcano to erupt next is the Kilauea volcano in Hawaii",
+    "question": "Which volcano is the most likely to erupt next?",
+    "answer": "Kilauea volcano in Hawaii",
+    "category": "science"
+  },
+  "science_6": {
+    "false_statement": "The city most likely to be hit by an earthquake 10 magnitude or greater in the coming years is Tokyo",
+    "statement": "The city most likely to be hit by an earthquake 10 magnitude or greater in the coming years is Istanbul",
+    "question": "Which city is most likely to be hit by an earthquake 10 magnitude or greater in the coming years?",
+    "answer": "Istanbul",
+    "category": "science"
+  },
+  "science_7": {
+    "false_statement": "The country most likely to be the first to land humans on Mars is China",
+    "statement": "The country most likely to be the first to land humans on Mars is the United States",
+    "question": "Which country is most likely to be the first to land humans on Mars?",
+    "answer": "United States",
+    "category": "science"
+  },
+  "science_8": {
+    "false_statement": "Scientists estimate  the next year a level 3 hurricane will make landfall on Florida is 2023",
+    "statement": "Scientists estimate the next year a level 3 hurricane will make landfall on Florida is 2024",
+    "question": "What do scientists estimate is the next year a level 3 hurricane will make landfall on Florida?",
+    "answer": "2024",
+    "category": "science"
+  },
+  "science_9": {
+    "false_statement": "The mammal most likely to go extinct within the next decade is the polar bear",
+    "statement": "The mammal most likely to go extinct within the next decade is the Black Rhinoceros",
+    "question": "Which mammal is the most likely to go extinct within the next decade?",
+    "answer": "Black Rhinoceros",
+    "category": "science"
+  },
+  "science_10": {
+    "false_statement": "The percentage of the world's population that is vulnerable to climate change is about 20%",
+    "statement": "The percentage of the world's population that is vulnerable to climate change is about 50%",
+    "question": "What percentage of the world's population is vulnerable to climate change?",
+    "answer": "50%",
+    "category": "science"
+  },
+  "science_11": {
+    "false_statement": "The percentage of the ocean that is currently unexplored is about 50%",
+    "statement": "The percentage of the ocean that is currently unexplored is 45%",
+    "question": "What percentage of the ocean is currently unexplored?",
+    "answer": "45%",
+    "category": "science"
+  },
+  "science_12": {
+    "false_statement": "It takes about 2 days for all sulfur dioxide from a Plinian volcanic eruption to dissipate/naturally degrade",
+    "statement": "It takes about 2 weeks for all sulfur dioxide from a Plinian volcanic eruption to dissipate/naturally degrade",
+    "question": "How long does it take for all sulfur dioxide from a Plinian volcanic eruption to dissipate/naturally degrade?",
+    "answer": "2 weeks",
+    "category": "science"
+  },
+  "science_13": {
+    "false_statement": "Fully autonomous cars will be sold more than standard cars within the next 5 years",
+    "statement": "Fully autonomous cars will be sold more than standard cars within the next 10 years",
+    "question": "When will fully autonomous cars be sold more than standard cars?",
+    "answer": "Within the next 10 years",
+    "category": "science"
+  },
+  "science_14": {
+    "false_statement": "Scientists estimate there are about 1000 bacteria species that are resistant to antibiotics",
+    "statement": "Scientists estimate there are about 10,000 bacteria species that are resistant to antibiotics",
+    "question": "How many bacteria species are estimated to be resistant to antibiotics?",
+    "answer": "10,000",
+    "category": "science"
+  },
+  "science_15": {
+    "false_statement": "Scientists estimate there are about 500 undiscovered medicinal plants in the Amazon",
+    "statement": "Scientists estimate there are about 5,000 undiscovered medicinal plants in the Amazon",
+    "question": "How many undiscovered medicinal plants are estimated to be in the Amazon?",
+    "answer": "5,000",
+    "category": "science"
+  },
+  "science_16": {
+    "false_statement": "The animal species with the highest rate of genetic mutation is the honeybee",
+    "statement": "The animal species with the highest rate of genetic mutation is the fruit fly",
+    "question": "Which animal species has the highest rate of genetic mutation?",
+    "answer": "Fruit fly",
+    "category": "science"
+  },
+  "trivia_1": {
+    "false_statement": "It is estimated about 50,000 people have had a near-death experience",
+    "statement": "It is estimated about 5,000 people have had a near-death experience",
+    "question": "How many people have had a near-death experience?",
+    "answer": "5,000",
+    "category": "trivia"
+  },
+  "trivia_2": {
+    "false_statement": "It is estimated about 50% of people have experienced deja vu",
+    "statement": "It is estimated about 80% of people have experienced deja vu",
+    "question": "How many people have experienced deja vu?",
+    "answer": "80%",
+    "category": "trivia"
+  },
+  "trivia_3": {
+    "false_statement": "The average number of times a person will move residences in their lifetime is 3",
+    "statement": "The average number of times a person will move residences in their lifetime is 4",
+    "question": "What is the average number of times a person will move residences in their lifetime?",
+    "answer": "4",
+    "category": "trivia"
+  },
+  "trivia_4": {
+    "false_statement": "The percentage of people who prefer cats over dogs as pets is 60%",
+    "statement": "The percentage of people who prefer cats over dogs as pets is 56%",
+    "question": "What is the percentage of people who prefer cats over dogs as pets?",
+    "answer": "56%",
+    "category": "trivia"
+  },
+  "trivia_5": {
+    "false_statement": "It is estimated about 25% of people believe in ghosts or paranormal activity",
+    "statement": "It is estimated about 45% of people believe in ghosts or paranormal activity",
+    "question": "How many people believe in ghosts or paranormal activity?",
+    "answer": "45%",
+    "category": "trivia"
+  },
+  "trivia_6": {
+    "false_statement": "The average amount of time a person spends on social media per day is 1 hour",
+    "statement": "The average amount of time a person spends on social media per day is 2 hours",
+    "question": "What is the average amount of time a person spends on social media per day?",
+    "answer": "2 hours",
+    "category": "trivia"
+  },
+  "trivia_7": {
+    "false_statement": "It is estimated about 25% of people have traveled to a foreign country before the age of 18",
+    "statement": "It is estimated about 10% of people have traveled to a foreign country before the age of 18",
+    "question": "How many people have traveled to a foreign country before the age of 18?",
+    "answer": "10%",
+    "category": "trivia"
+  },
+  "trivia_8": {
+    "false_statement": "The percentage of people who have ridden in an ambulance is 5%",
+    "statement": "The percentage of people who have ridden in an ambulance is 10%",
+    "question": "What is the percentage of people who have ridden in an ambulance?",
+    "answer": "10%",
+    "category": "trivia"
+  },
+  "trivia_9": {
+    "false_statement": "It is estimated about 25% of people have been involved in a car accident",
+    "statement": "It is estimated about 15% of people have been involved in a car accident",
+    "question": "How many people have been involved in a car accident?",
+    "answer": "15%",
+    "category": "trivia"
+  },
+  "trivia_10": {
+    "false_statement": "The percentage of people who prefer showers over baths is 30%",
+    "statement": "The percentage of people who prefer showers over baths is 75%",
+    "question": "What is the percentage of people who prefer showers over baths?",
+    "answer": "75%",
+    "category": "trivia"
+  },
+  "trivia_11": {
+    "false_statement": "The percentage of people who sleep with a nightlight is 10%",
+    "statement": "The percentage of people who sleep with a nightlight is 15%",
+    "question": "What is the percentage of people who sleep with a nightlight?",
+    "answer": "15%",
+    "category": "trivia"
+  },
+  "trivia_12": {
+    "false_statement": "It is estimated about 5% of people have had their tonsils removed",
+    "statement": "It is estimated about 10% of people have had their tonsils removed",
+    "question": "How many people have had their tonsils removed?",
+    "answer": "10%",
+    "category": "trivia"
+  },
+  "trivia_13": {
+    "false_statement": "The percentage of people who are afraid of heights is 20%",
+    "statement": "The percentage of people who are afraid of heights is 40%",
+    "question": "What is the percentage of people who are afraid of heights?",
+    "answer": "40%",
+    "category": "trivia"
+  },
+  "trivia_14": {
+    "false_statement": "The percentage of people who prefer beaches over mountains for vacation destinations is 25%",
+    "statement": "The percentage of people who prefer beaches over mountains for vacation destinations is 55%",
+    "question": "What is the percentage of people who prefer beaches over mountains for vacation destinations?",
+    "answer": "55%",
+    "category": "trivia"
+  },
+  "trivia_15": {
+    "false_statement": "It is estimated about 20,000 people have ridden in a hot air balloon",
+    "statement": "It is estimated about 200,000 people have ridden in a hot air balloon",
+    "question": "How many people have ridden in a hot air balloon?",
+    "answer": "200,000",
+    "category": "trivia"
+  },
+  "trivia_16": {
+    "false_statement": "The percentage of people who prefer pencil over pen when writing is 50%",
+    "statement": "The percentage of people who prefer pencil over pen when writing is 65%",
+    "question": "What is the percentage of people who prefer pencil over pen when writing?",
+    "answer": "65%",
+    "category": "trivia"
+  },
+  "trivia_17": {
+    "false_statement": "It is estimated about 500,000 people have jumped out of an airplane with a parachute",
+    "statement": "It is estimated about 100,000 people have jumped out of an airplane with a parachute",
+    "question": "How many people have jumped out of an airplane with a parachute?",
+    "answer": "100,000",
+    "category": "trivia"
+  },
+  "trivia_18": {
+    "false_statement": "The percentage of people who prefer tea over coffee is 40%",
+    "statement": "The percentage of people who prefer tea over coffee is 30%",
+    "question": "What is the percentage of people who prefer tea over coffee?",
+    "answer": "30%",
+    "category": "trivia"
+  },
+  "trivia_19": {
+    "false_statement": "It is estimated about 40 million people have climbed a mountain",
+    "statement": "It is estimated about 60 million people have climbed a mountain",
+    "question": "How many people have climbed a mountain?",
+    "answer": "60 million",
+    "category": "trivia"
+  },
+  "trivia_20": {
+    "false_statement": "The percentage of people who prefer eBooks over physical books is 15%",
+    "statement": "The percentage of people who prefer eBooks over physical books is 30%",
+    "question": "What is the percentage of people who prefer eBooks over physical books?",
+    "answer": "30%",
+    "category": "trivia"
+  },
+  "trivia_21": {
+    "false_statement": "The percentage of people who prefer watching movies at home over going to the movie theater is 70%",
+    "statement": "The percentage of people who prefer watching movies at home over going to the movie theater is 50%",
+    "question": "What is the percentage of people who prefer watching movies at home over going to the movie theater?",
+    "answer": "50%",
+    "category": "trivia"
+  },
+  "trivia_22": {
+    "false_statement": "It is estimated about 2 million people have run a marathon",
+    "statement": "It is estimated about 3 million people have run a marathon",
+    "question": "How many people have run a marathon?",
+    "answer": "3 million",
+    "category": "trivia"
+  },
+  "trivia_23": {
+    "false_statement": "The percentage of people who prefer texting over calling on the phone is 40%",
+    "statement": "The percentage of people who prefer texting over calling on the phone is 70%",
+    "question": "What is the percentage of people who prefer texting over calling on the phone?",
+    "answer": "70%",
+    "category": "trivia"
+  },
+  "trivia_24": {
+    "false_statement": "It is estimated about 50 million people have ridden a motorcycle",
+    "statement": "It is estimated about 25 million people have ridden a motorcycle",
+    "question": "How many people have ridden a motorcycle?",
+    "answer": "25 million",
+    "category": "trivia"
+  },
+  "trivia_25": {
+    "false_statement": "The percentage of people who have bungee jumped is 10%",
+    "statement": "The percentage of people who have bungee jumped is 1%",
+    "question": "What is the percentage of people who have bungee jumped?",
+    "answer": "1%",
+    "category": "trivia"
+  },
+  "trivia_26": {
+    "false_statement": "It is estimated about 500,000 people have gone scuba diving",
+    "statement": "It is estimated about 10 million people have gone scuba diving",
+    "question": "How many people have gone scuba diving?",
+    "answer": "10 million",
+    "category": "trivia"
+  },
+  "trivia_27": {
+    "false_statement": "The percentage of people who are afraid of flying on airplanes is 10%",
+    "statement": "The percentage of people who are afraid of flying on airplanes is 25%",
+    "question": "What is the percentage of people who are afraid of flying on airplanes?",
+    "answer": "25%",
+    "category": "trivia"
+  },
+  "trivia_28": {
+    "false_statement": "It is estimated about 1 billion people have played an instrument",
+    "statement": "It is estimated about 500 million people have played an instrument",
+    "question": "How many people have played an instrument?",
+    "answer": "500 million",
+    "category": "trivia"
+  },
+  "trivia_29": {
+    "false_statement": "The percentage of people who believe in love at first sight is 10%",
+    "statement": "The percentage of people who believe in love at first sight is 30%",
+    "question": "What is the percentage of people who believe in love at first sight?",
+    "answer": "30%",
+    "category": "trivia"
+  },
+  "trivia_30": {
+    "false_statement": "It is estimated about 10 million people can solve a Rubik's cube",
+    "statement": "It is estimated about 100 million people can solve a Rubik's cube",
+    "question": "How many people can solve a Rubik's cube?",
+    "answer": "100 million",
+    "category": "trivia"
+  },
+  "trivia_31": {
+    "false_statement": "The percentage of people who prefer salty snacks over sweet snacks is 50%",
+    "statement": "The percentage of people who prefer salty snacks over sweet snacks is 70%",
+    "question": "What is the percentage of people who prefer salty snacks over sweet snacks?",
+    "answer": "70%",
+    "category": "trivia"
+  },
+  "trivia_32": {
+    "false_statement": "It is estimated about 950 million people have broken a bone",
+    "statement": "It is estimated about 900 million people have broken a bone",
+    "question": "How many people have broken a bone?",
+    "answer": "900 million",
+    "category": "trivia"
+  },
+  "trivia_33": {
+    "false_statement": "The percentage of people who can ride a unicycle is 30%",
+    "statement": "The percentage of people who can ride a unicycle is 5%",
+    "question": "What is the percentage of people who can ride a unicycle?",
+    "answer": "5%",
+    "category": "trivia"
+  },
+  "trivia_34": {
+    "false_statement": "It is estimated about 1 million people have flown in a helicopter",
+    "statement": "It is estimated about 2 million people have flown in a helicopter",
+    "question": "How many people have flown in a helicopter?",
+    "answer": "2 million",
+    "category": "trivia"
+  },
+  "trivia_35": {
+    "false_statement": "The percentage of people who prefer listening to jazz music over classical music is 70%",
+    "statement": "The percentage of people who prefer listening to jazz music over classical music is 30%",
+    "question": "What is the percentage of people who prefer listening to jazz music over classical music?",
+    "answer": "30%",
+    "category": "trivia"
+  },
+  "trivia_36": {
+    "false_statement": "It is estimated about 2 million people have been skydiving",
+    "statement": "It is estimated about 1 million people have been skydiving",
+    "question": "How many people have been skydiving?",
+    "answer": "1 million",
+    "category": "trivia"
+  },
+    "trivia_b_1": {
+    "false_statement": "The percentage of cars on the road that are red is 13%",
+    "statement": "The percentage of cars on the road that are red is 10%",
+    "question": "What is the percentage of cars on the road that are red?",
+    "answer": "13%",
+    "category": "trivia_b"
+  },
+  "trivia_b_2": {
+    "false_statement": "The average number of leaves on an oak tree is 200,000",
+    "statement": "The average number of leaves on an oak tree is 300,000",
+    "question": "What is the average number of leaves on an oak tree?",
+    "answer": "300,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_3": {
+    "false_statement": "The percentage of houses that have a basement is 50%",
+    "statement": "The percentage of houses that have a basement is 45%",
+    "question": "What is the percentage of houses that have a basement?",
+    "answer": "45%",
+    "category": "trivia_b"
+  },
+  "trivia_b_4": {
+    "false_statement": "The percentage of restaurants that serve breakfast all day is 10%",
+    "statement": "The percentage of restaurants that serve breakfast all day is 15%",
+    "question": "What is the percentage of restaurants that serve breakfast all day?",
+    "answer": "15%",
+    "category": "trivia_b"
+  },
+  "trivia_b_5": {
+    "false_statement": "There are 5,000 airplanes currently flying at any given time.",
+    "statement": "There are 6,000 airplanes currently flying at any given time.",
+    "question": "How many airplanes are currently flying at any given time?",
+    "answer": "6,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_6": {
+    "false_statement": "The percentage of airports that have free Wi-Fi for travelers is 80%",
+    "statement": "The percentage of airports that have free Wi-Fi for travelers is 90%",
+    "question": "What is the percentage of airports that have free Wi-Fi for travelers?",
+    "answer": "90%",
+    "category": "trivia_b"
+  },
+  "trivia_b_7": {
+    "false_statement": "There are 10,000 boats currently sailing in the world's oceans.",
+    "statement": "There are 11,000 boats currently sailing in the world's oceans.",
+    "question": "How many boats are currently sailing in the world's oceans?",
+    "answer": "11,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_8": {
+    "false_statement": "The percentage of people who have ridden on a train is 20%",
+    "statement": "The percentage of people who have ridden on a train is 30%",
+    "question": "What is the percentage of people who have ridden on a train",
+    "answer": "30%",
+    "category": "trivia_b"
+  },
+  "trivia_b_9": {
+    "false_statement": "There are 100,000 bicycles currently being ridden at any given time.",
+    "statement": "There are 110,000 bicycles currently being ridden at any given time.",
+    "question": "How many bicycles are currently being ridden at any given time?",
+    "answer": "110,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_10": {
+    "false_statement": "The percentage of offices that provide free coffee for employees is 50%",
+    "statement": "The percentage of offices that provide free coffee for employees is 60%",
+    "question": "What is the percentage of offices that provide free coffee for employees?",
+    "answer": "50%",
+    "category": "trivia_b"
+  },
+  "trivia_b_11": {
+    "false_statement": "There are 3 billion pennies currently in circulation.",
+    "statement": "There are 4 billion pennies currently in circulation.",
+    "question": "How many pennies are currently in circulation?",
+    "answer": "4 billion",
+    "category": "trivia_b"
+  },
+  "trivia_b_12": {
+    "false_statement": "The percentage of books that are non-fiction is 70%",
+    "statement": "The percentage of books that are non-fiction is 50%",
+    "question": "What is the percentage of books that are non-fiction",
+    "answer": "50%",
+    "category": "trivia_b"
+  },
+  "trivia_b_13": {
+    "false_statement": "There are 70,000 guitars currently being played at any given time.",
+    "statement": "There are 60,000 guitars currently being played at any given time.",
+    "question": "How many guitars are currently being played at any given time?",
+    "answer": "60,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_14": {
+    "false_statement": "The percentage of movies that are rated PG is 80%",
+    "statement": "The percentage of movies that are rated PG is 70%",
+    "question": "What is the percentage of movies that are rated PG",
+    "answer": "70%",
+    "category": "trivia_b"
+  },
+  "trivia_b_15": {
+    "false_statement": "There are 60 million dogs with a microchip implanted.",
+    "statement": "There are 50 million dogs with a microchip implanted.",
+    "question": "How many dogs have a microchip implanted?",
+    "answer": "50 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_16": {
+    "false_statement": "The percentage of cats with blue eyes is 10%",
+    "statement": "The percentage of cats with blue eyes is 20%",
+    "question": "What is the percentage of cats with blue eyes?",
+    "answer": "20%",
+    "category": "trivia_b"
+  },
+  "trivia_b_17": {
+    "false_statement": "There are 30 million refrigerators running at any given time.",
+    "statement": "There are 25 million refrigerators running at any given time.",
+    "question": "How many refrigerators are running at any given time?",
+    "answer": "25 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_18": {
+    "false_statement": "The percentage of phones with internet capability is 90%",
+    "statement": "The percentage of phones with internet capability is 95%",
+    "question": "What is the percentage of phones with internet capability",
+    "answer": "95%",
+    "category": "trivia_b"
+  },
+  "trivia_b_19": {
+    "false_statement": "There are 18 million televisions currently turned on in homes and businesses.",
+    "statement": "There are 9 million televisions currently turned on in homes and businesses.",
+    "question": "How many televisions are currently turned on in homes and businesses?",
+    "answer": "9 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_20": {
+    "false_statement": "There were 1 million espresso machines purchased within the last year.",
+    "statement": "There were 2 million espresso machines purchased within the last year.",
+    "question": "How many espresso machines have been purchased within the last year?",
+    "answer": "2 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_21": {
+    "false_statement": "The percentage of apartments with balconies is 40%",
+    "statement": "The percentage of apartments with balconies is 50%",
+    "question": "What is the percentage of apartments with balconies",
+    "answer": "50%",
+    "category": "trivia_b"
+  },
+  "trivia_b_22": {
+    "false_statement": "There are 5,000 blenders currently blending some food item.",
+    "statement": "There are 6,000 blenders currently blending some food item.",
+    "question": "How many blenders are currently blending some food item?",
+    "answer": "6,000",
+    "category": "trivia_b"
+  },
+  "trivia_b_23": {
+    "false_statement": "The percentage of office buildings that have a water cooler is 60%",
+    "statement": "The percentage of office buildings that have a water cooler is 40%",
+    "question": "What is the percentage of office buildings that have a water cooler",
+    "answer": "40%",
+    "category": "trivia_b"
+  },
+  "trivia_b_24": {
+    "false_statement": "There are 1 billion computers currently running Google Chrome.",
+    "statement": "There are 2 billion computers currently running Google Chrome.",
+    "question": "How many computers are currently running Google Chrome?",
+    "answer": "2 billion",
+    "category": "trivia_b"
+  },
+  "trivia_b_25": {
+    "false_statement": "The percentage of grocery stores that offer online ordering and pickup services is 40%",
+    "statement": "The percentage of grocery stores that offer online ordering and pickup services is 30%",
+    "question": "What percentage of grocery stores offer online ordering and pickup services?",
+    "answer": "30%",
+    "category": "trivia_b"
+  },
+  "trivia_b_26": {
+    "false_statement": "There are 10 million washing machines currently being used at any given time.",
+    "statement": "There are 5 million washing machines currently being used at any given time.",
+    "question": "How many washing machines are currently being used at any given time?",
+    "answer": "5 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_27": {
+    "false_statement": "The percentage of hotels that provide free Wi-Fi for guests is 70%",
+    "statement": "The percentage of hotels that provide free Wi-Fi for guests is 80%",
+    "question": "What is the percentage of hotels that provide free Wi-Fi for guests?",
+    "answer": "80%",
+    "category": "trivia_b"
+  },
+  "trivia_b_28": {
+    "false_statement": "There are 3 million hairdryers currently being utilized in homes, salons, hotels, etc. across the world.",
+    "statement": "There are 7 million hairdryers currently being utilized in homes, salons, hotels, etc. across the world.",
+    "question": "How many hairdryers are currently being utilized in homes, salons, hotels, etc. across the world?",
+    "answer": "7 million",
+    "category": "trivia_b"
+  },
+  "trivia_b_29": {
+    "false_statement": "There were 10 million vacuum cleaners sold last year globally.",
+    "statement": "There were 15 million vacuum cleaners sold last year globally.",
+    "question": "How many vacuum cleaners were sold last year globally?",
+    "answer": "15 million",
+    "category": "trivia_b"
+  }
+}

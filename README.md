@@ -1,4 +1,4 @@
-# Code for the paper "Large language models lie in detectable ways"
+# Code for the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions"
 
 This repository contains code for reproducing the experiments in the paper "Large language models lie in detectable ways".
 

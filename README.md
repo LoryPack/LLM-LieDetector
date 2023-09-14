@@ -1,6 +1,6 @@
 # Code for the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions"
 
-This repository contains code for reproducing the experiments in the paper "Large language models lie in detectable ways".
+This repository contains code for reproducing the experiments in the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions".
 
 The main contribution of the paper are: 
 - a collection of Q/A datasets, prompts and fine-tuning datasets to generate lies with language models;
@@ -50,5 +50,5 @@ Running experiments with the OpenAI API will incur a monetary cost. Some of our 
 
 ## Caveats
 
-- While we worked at this project, we used the term `probes` instead of `elicitation questions`, as they are now indicated in the paper. The previous term stuck in the repository, which still uses it.
+- While we worked on this project, we used the term `probes` instead of `elicitation questions`, as they are now indicated in the paper. The previous term stuck in the repository, which still uses it.
 - In the paper, we say that we use 48 elicitation questions. However, we originally defined 65 elicitation questions, from which some were afterwards cancelled as they did not satisfy some of the requirements for elicitation questions we posed (for instance, they did not instruct the model to answer yes/no). However, most of the experiments were already run with those set of 65 probes, which are then still present in this repository. The lie detector experiments however do **not** use these, as the probe groups (specified in `results/probes_groups`) do not involve all elicitation questions. 

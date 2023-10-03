@@ -278,7 +278,7 @@ class QuestionsLoader(DataFrame, ABC):
         # get the current working directory
         cwd = os.getcwd()
         steps_up = 0
-        while os.path.basename(cwd) not in ["lie_detection", "LLM_lie_detection"]:
+        while os.path.basename(cwd) not in ["lie_detection", "LLM_lie_detection", "LLM-LieDetector"]:
             cwd = os.path.dirname(cwd)
             steps_up += 1
         # now cwd is the root directory

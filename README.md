@@ -60,7 +60,7 @@ Running experiments with the OpenAI API will incur a monetary cost. Some of our 
 
 **Q: For the logprob classifier, paper Section 5.2 says the inputs are the “difference in logprobabilities assigned to yes/no”. Does this mean `logprob(yes) - logprob(no)` or `logprob(no) - logprob(yes)`?**
 
-**A: **`logprob(yes) - logprob(no)`
+**A:** `logprob(yes) - logprob(no)`
 
 **Q: How is `logprob(yes)` and `logprob(no)`computed?**
 
@@ -70,7 +70,18 @@ Running experiments with the OpenAI API will incur a monetary cost. Some of our 
 
 **A:** you can find GPT-3.5 generated lies in the `false_statement` column in each Q/A dataset. Those doi not exactly corresponds to the answers given by GPT-3.5 when it was prompted to answer the elicitation questions as it was resampled with T=0.7, but they are  close.
 
+**Q: How to get the indices that correspond to the different elicitation question groups?**
+**A:**
+```# all probing questions
+probes = pd.read_csv("../../data/probes.csv")["probe"].tolist()
 
+# load indices
+no_lie_indices = np.load("../../results/probes_groups/no_lie_indices.npy")
+lie_indices= np.load("../../results/probes_groups/lie_indices.npy")
+knowable_indices = np.load("../../results/probes_groups/knowable_indices.npy")
+subsets_union_indices = np.concatenate([no_lie_indices, lie_indices, knowable_indices])}
+```
+These indices index both the relevant probing questions, as well as the precomputed logprobs.
 
 ## Caveats
 

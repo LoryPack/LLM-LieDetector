@@ -48,6 +48,41 @@ Finally, to run experiments on the OpenAI models, you'll need to store your [Ope
 
 Running experiments with the OpenAI API will incur a monetary cost. Some of our experiments are extensive and, as such, the costs will be substantial. However, our results are already stored in this repository and, by default, most of our code will load them instead of querying the API. Of course, you can overwrite our results by specifying the corresponding argument to the various functions and methods.
 
+## FAQs
+
+**Q: Which probes should I be using for binary responses vs. logprobs?**
+
+**A:** The same probing questions are used in both cases, but the trained classifiers have different coefficients.
+
+**Q: For the classifier predictions, what do 1/0 correspond to?**
+
+**A:** 1 corresponds to truth while 0 corresponds to lie.
+
+**Q: For the logprob classifier, paper Section 5.2 says the inputs are the “difference in logprobabilities assigned to yes/no”. Does this mean `logprob(yes) - logprob(no)` or `logprob(no) - logprob(yes)`?**
+
+**A:** `logprob(yes) - logprob(no)`
+
+**Q: How is `logprob(yes)` and `logprob(no)`computed?**
+
+**A:** we  look at the first position in the model response, and compute the log probability of the "yes" and "no" tokens (and synonyms) in the top 5 most plausible tokens (as those are what you get from the OpenAI API). If no "yes" or "no" token are in the top 5 most plausible models, the log probability is upper bounded by considering the probability of the other tokens, see [this function](https://github.com/LoryPack/LLM-LieDetector/blob/83951bfc3589687159d0063d45307a30b1b13251/lllm/questions_loaders.py#L124). 
+
+**Q: Where are the generated lies?**
+
+**A:** you can find GPT-3.5 generated lies in the `false_statement` column in each Q/A dataset. Those doi not exactly corresponds to the answers given by GPT-3.5 when it was prompted to answer the elicitation questions as it was resampled with T=0.7, but they are  close.
+
+**Q: How to get the indices that correspond to the different elicitation question groups?**
+**A:**
+```# all probing questions
+probes = pd.read_csv("../../data/probes.csv")["probe"].tolist()
+
+# load indices
+no_lie_indices = np.load("../../results/probes_groups/no_lie_indices.npy")
+lie_indices= np.load("../../results/probes_groups/lie_indices.npy")
+knowable_indices = np.load("../../results/probes_groups/knowable_indices.npy")
+subsets_union_indices = np.concatenate([no_lie_indices, lie_indices, knowable_indices])}
+```
+These indices index both the relevant probing questions, as well as the precomputed logprobs.
+
 ## Caveats
 
 - While we worked on this project, we used the term `probes` instead of `elicitation questions`, as they are now indicated in the paper. The previous term stuck in the repository, which still uses it.

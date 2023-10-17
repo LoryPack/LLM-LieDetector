@@ -87,3 +87,16 @@ These indices index both the relevant probing questions, as well as the precompu
 
 - While we worked on this project, we used the term `probes` instead of `elicitation questions`, as they are now indicated in the paper. The previous term stuck in the repository, which still uses it.
 - In the paper, we say that we use 48 elicitation questions. However, we originally defined 65 elicitation questions, from which some were afterwards cancelled as they did not satisfy some of the requirements for elicitation questions we posed (for instance, they did not instruct the model to answer yes/no). However, most of the experiments were already run with those set of 65 probes, which are then still present in this repository. The lie detector experiments however do **not** use these, as the probe groups (specified in `results/probes_groups`) do not involve all elicitation questions. 
+
+## Citing
+
+If you use this software please cite as follows:
+
+```bib
+@article{pacchiardi2023catch,
+  title={How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions},
+  author={Pacchiardi, Lorenzo and Chan, Alex J and Mindermann, S{\"o}ren and Moscovitz, Ilan and Pan, Alexa Y and Gal, Yarin and Evans, Owain and Brauner, Jan},
+  journal={arXiv preprint arXiv:2309.15840},
+  year={2023}
+}
+```

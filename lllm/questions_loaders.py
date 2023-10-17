@@ -12,6 +12,7 @@ import pandas as pd
 from pandas import DataFrame
 from scipy.special import logsumexp
 from tqdm import tqdm
+from pkg_resources import resource_filename
 
 from lllm import Suspect, DynamicInvestigator, Dialogue, StaticInvestigator
 from lllm.utils import completion_create_retry
@@ -269,23 +270,8 @@ class QuestionsLoader(DataFrame, ABC):
 
     @staticmethod
     def path_prefix():
-        # I want to build a relative path which is different depending on whether I am running the code from the root
-        # directory or from any other folder inside the project. It needs to go up to the root ("lie detection") and
-        # then go down to the "data" folder.
 
-        # count how many steps I need to go up
-
-        # get the current working directory
-        cwd = os.getcwd()
-        steps_up = 0
-        while os.path.basename(cwd) not in ["lie_detection", "LLM_lie_detection", "LLM-LieDetector"]:
-            cwd = os.path.dirname(cwd)
-            steps_up += 1
-        # now cwd is the root directory
-        l = [".."] * steps_up + ["data"]
-
-        prefix = os.path.join(*l)
-        # prefix = 'data'
+        prefix = resource_filename("lllm", f"/../data")
 
         return prefix
 

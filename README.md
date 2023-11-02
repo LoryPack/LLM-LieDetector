@@ -1,6 +1,6 @@
-# Code for the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions"
+# Code for the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://arxiv.org/abs/2309.15840)"
 
-This repository contains code for reproducing the experiments in the paper "How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions".
+This repository contains code for reproducing the experiments in the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://arxiv.org/abs/2309.15840)".
 
 The main contribution of the paper are: 
 - a collection of Q/A datasets, prompts and fine-tuning datasets to generate lies with language models;

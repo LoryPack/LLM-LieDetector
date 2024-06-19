@@ -1,6 +1,6 @@
-# Code for the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://arxiv.org/abs/2309.15840)"
+# Code for the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://openreview.net/forum?id=567BjxgaTp)"
 
-This repository contains code for reproducing the experiments in the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://arxiv.org/abs/2309.15840)".
+This repository contains code for reproducing the experiments in the paper "[How to catch an AI liar: Lie detection in black-box LLMs by asking unrelated questions](https://openreview.net/forum?id=567BjxgaTp)".
 
 The main contribution of the paper are: 
 - a collection of Q/A datasets, prompts and fine-tuning datasets to generate lies with language models;
@@ -93,10 +93,11 @@ These indices index both the relevant probing questions, as well as the precompu
 If you use this software please cite as follows:
 
 ```bib
-@article{pacchiardi2023catch,
-  title={How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions},
-  author={Pacchiardi, Lorenzo and Chan, Alex J and Mindermann, S{\"o}ren and Moscovitz, Ilan and Pan, Alexa Y and Gal, Yarin and Evans, Owain and Brauner, Jan},
-  journal={arXiv preprint arXiv:2309.15840},
-  year={2023}
-}
-```
+@inproceedings{
+pacchiardi2024how,
+title={How to Catch an {AI} Liar: Lie Detection in Black-Box {LLM}s by Asking Unrelated Questions},
+author={Lorenzo Pacchiardi and Alex James Chan and S{\"o}ren Mindermann and Ilan Moscovitz and Alexa Yue Pan and Yarin Gal and Owain Evans and Jan M. Brauner},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=567BjxgaTp}
+}```
